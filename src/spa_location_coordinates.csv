@@ -1,0 +1,692 @@
+,BusinessName,Address,City,State,ZIP,location,coordinates,longitude,lattitude
+0,"Richards Cosmetic Surgery, Med Spa & Laser Center",3860 S Hualapai Way,Las Vegas,NV,89147,3860 S Hualapai Way Las Vegas NV 89147,"[-115.31436, 36.120195]",-115.31436,36.120195
+1,OrangeTwist,10000 W Sahara Ave,Las Vegas,NV,89117,10000 W Sahara Ave Las Vegas NV 89117,"[-115.313125, 36.145515]",-115.313125,36.145515
+2,Beverly Hills Rejuvenation Center - Boca Park,750 S Rampart Blvd Suite 4,Las Vegas,NV,89117,750 S Rampart Blvd Suite 4 Las Vegas NV 89145,"[-115.28944, 36.164]",-115.28944,36.164
+3,Ideal Image Summerlin,1925 Village Center Cir Suite 130,Las Vegas,NV,89134,1925 Village Center Cir Suite 130 Las Vegas NV 89134,"[-115.303535, 36.192585]",-115.303535,36.192585
+4,Belle Medical,6200 N Durango Dr Suite 110,Las Vegas,NV,89149,6200 N Durango Dr Suite 110 Las Vegas NV 89149,"[-115.283115, 36.274785]",-115.283115,36.274785
+5,Laser Away,6551 Las Vegas Blvd S Ste R-144,Las Vegas,NV,89119,6551 Las Vegas Blvd S Ste R-144 Las Vegas NV 89119,"[-115.17668, 36.06942]",-115.17668,36.06942
+6,Face Forward Aesthetics,2649 Wigwam Pkwy Suite 101,Henderson,NV,89074,2649 Wigwam Pkwy Suite 101 Henderson NV 89074,"[-115.102148, 36.03366]",-115.102148,36.03366
+7,Elements Salon & Wellness Spa,6461 N Durango Dr,Las Vegas,NV,89149,6461 N Durango Dr Las Vegas NV 89149,"[-115.27891, 36.27858]",-115.27891,36.27858
+8,Body Wellness MD,501 S Rancho Dr Suite F-38,Las Vegas,NV,89106,501 S Rancho Dr Suite F-38 Las Vegas NV 89106,"[-115.17241, 36.16615]",-115.17241,36.16615
+9,Golden Nugget Las Vegas Hotel & Casino,129 E Fremont St,Las Vegas,NV,89101,129 E Fremont St Las Vegas NV 89101,"[-115.14138, 36.16946]",-115.14138,36.16946
+10,Planet Hollywood Spa by Mandara,3667 S Las Vegas Blvd,Las Vegas,NV,89109,3667 S Las Vegas Blvd Las Vegas NV 89109,"[-115.17189, 36.11016]",-115.17189,36.11016
+11,Simplicity Laser,7591 W Washington Ave #140,Las Vegas,NV,89128,7591 W Washington Ave #140 Las Vegas NV 89128,"[-115.25917, 36.18088]",-115.25917,36.18088
+12,The Platinum Hotel & Spa,211 E Flamingo Rd,Las Vegas,NV,89169,211 E Flamingo Rd Las Vegas NV 89169,"[-115.16367, 36.11433]",-115.16367,36.11433
+13,M Resort Spa Casino,12300 Las Vegas Blvd S,Henderson,NV,89044,12300 Las Vegas Blvd S Henderson NV 89044,"[-115.16864, 35.96485]",-115.16864,35.96485
+14,Foxy Med Spa,6725 S Eastern Ave Suite #3,Las Vegas,NV,89119,6725 S Eastern Ave Suite #3 Las Vegas NV 89119,"[-115.1192, 36.067585]",-115.1192,36.067585
+15,Massage 1,6446 N Durango Dr STE 130,Las Vegas,NV,89149,6446 N Durango Dr STE 130 Las Vegas NV 89149,"[-115.27876, 36.27827]",-115.27876,36.27827
+16,Well Spa Salon,211 E Flamingo Rd,Las Vegas,NV,89169,211 E Flamingo Rd Las Vegas NV 89169,"[-115.16367, 36.11433]",-115.16367,36.11433
+17,Spa At The LINQ,3535 S Las Vegas Blvd,Las Vegas,NV,89109,3535 S Las Vegas Blvd Las Vegas NV 89109,"[-115.1707, 36.11834]",-115.1707,36.11834
+18,Elements Massage,1215 S Fort Apache Rd,#150,NV,89117,1215 S Fort Apache Rd #150 NV 89117,"[-115.2926, 36.15704]",-115.2926,36.15704
+19,Sono Bello Las Vegas,7455 Arroyo Crossing Pkwy Ste 100,Las Vegas,NV,89113,7455 Arroyo Crossing Pkwy Ste 100 Las Vegas NV 89113,"[-115.25207, 36.05251]",-115.25207,36.05251
+20,LOOK STYLE SOCIETY,6539 S Las Vegas Blvd,Las Vegas,NV,89119,6539 S Las Vegas Blvd Las Vegas NV 89119,"[-115.17249, 36.07006]",-115.17249,36.07006
+21,Las Vegas Laser Skin Care,3655 S Durango Dr Ste 24,Las Vegas,NV,89147,3655 S Durango Dr Ste 24 Las Vegas NV 89147,"[-115.27962, 36.12322]",-115.27962,36.12322
+22,Stretch Zone,4965 Blue Diamond Rd,Las Vegas,NV,89139,4965 Blue Diamond Rd Las Vegas NV 89139,"[-115.2088, 36.03121]",-115.2088,36.03121
+23,PlushCare Primary Health,101 Mission St Suite 800,Las Vegas,NV,89109,101 Mission St Suite 800 Las Vegas NV 89109,"[-115.151764, 36.139254]",-115.151764,36.139254
+25,HairClub,500 N Rainbow Blvd,Las Vegas,NV,89107,500 N Rainbow Blvd Las Vegas NV 89107,"[-115.24163, 36.17807]",-115.24163,36.17807
+26,Bosley Hair Transplant & Restoration,500 North Rainbow Boulevard,Las Vegas,NV,89107,500 North Rainbow Boulevard Las Vegas NV 89107,"[-115.24163, 36.17807]",-115.24163,36.17807
+27,Sam's Club,2650 E Craig Rd,North Las Vegas,NV,89030,2650 E Craig Rd North Las Vegas NV 89030,"[-115.11363, 36.24175]",-115.11363,36.24175
+28,Luxe Beauty Salon,2225 N Rampart Blvd,Las Vegas,NV,89128,2225 N Rampart Blvd Las Vegas NV 89128,"[-115.28149, 36.20086]",-115.28149,36.20086
+29,NIMA Institute and Spa,3993 Howard Hughes Pkwy Suite 150,Las Vegas,NV,89169,3993 Howard Hughes Pkwy Suite 150 Las Vegas NV 89169,"[-115.15861, 36.1173]",-115.15861,36.1173
+30,Euphoria Institute of Beauty Arts & Sciences,9340 W Sahara Ave Suite 205,Las Vegas,NV,89117,9340 W Sahara Ave Suite 205 Las Vegas NV 89117,"[-115.2984, 36.14624]",-115.2984,36.14624
+31,Milan Institute - Las Vegas,710 S Tonopah Dr,Las Vegas,NV,89106,710 S Tonopah Dr Las Vegas NV 89106,"[-115.17008, 36.16243]",-115.17008,36.16243
+32,MD Laser Med Spa,7175 W Lake Mead Blvd,Las Vegas,NV,89128,7175 W Lake Mead Blvd Las Vegas NV 89128,"[-115.24813, 36.19553]",-115.24813,36.19553
+33,MICRO MED SPA,1650 E Sahara Ave #2,Las Vegas,NV,89104,1650 E Sahara Ave #2 Las Vegas NV 89104,"[-115.128725, 36.14472]",-115.128725,36.14472
+34,Beverly Hills Rejuvenation Center,1825 Festival Plaza Dr #180,Las Vegas,NV,89135,1825 Festival Plaza Dr #180 Las Vegas NV 89135,"[-115.3343, 36.15128]",-115.3343,36.15128
+35,Grand Hills Med Spa,11251 S Eastern Ave #140,Henderson,NV,89052,11251 S Eastern Ave #140 Henderson NV 89052,"[-115.101921, 35.98754]",-115.101921,35.98754
+36,Massage Envy,9484 W Flamingo Rd Suite 150,Las Vegas,NV,89147,9484 W Flamingo Rd Suite 150 Las Vegas NV 89147,"[-115.29954, 36.11509]",-115.29954,36.11509
+37,Red Rock Casino Resort and Spa,11011 W Charleston Blvd,Las Vegas,NV,89135,11011 W Charleston Blvd Las Vegas NV 89135,"[-115.332185, 36.153945]",-115.332185,36.153945
+38,Ideal Aesthetics,6028 S Fort Apache Rd Suite 101,Las Vegas,NV,89148,6028 S Fort Apache Rd Suite 101 Las Vegas NV 89148,"[-115.29716, 36.07878]",-115.29716,36.07878
+39,Bellagio Spa & Salon,Bellagio Dr,Las Vegas,NV,89109,Bellagio Dr Las Vegas NV 89109,"[-115.174544088398, 36.111300966576]",-115.174544088398,36.111300966576
+40,Aveda Institute Las Vegas,4856 S Eastern Ave,Las Vegas,NV,89119,4856 S Eastern Ave Las Vegas NV 89119,"[-115.11785, 36.10121]",-115.11785,36.10121
+41,Revenge MD,2405 W Horizon Ridge Pkwy #100,Henderson,NV,89052,2405 W Horizon Ridge Pkwy #100 Henderson NV 89052,"[-115.092715, 36.00503]",-115.092715,36.00503
+42,Eterne Beauty,2820 W Charleston Blvd #38,Las Vegas,NV,89102,2820 W Charleston Blvd #38 Las Vegas NV 89102,"[-115.180513, 36.160458]",-115.180513,36.160458
+43,The IV Medspa,3220 S Durango Dr Ste B3,Las Vegas,NV,89117,3220 S Durango Dr Ste B3 Las Vegas NV 89117,"[-115.278455, 36.13082]",-115.278455,36.13082
+44,Mia Aesthetics Las Vegas,8871 W Sahara Ave,Las Vegas,NV,89117,8871 W Sahara Ave Las Vegas NV 89117,"[-115.28989, 36.14296]",-115.28989,36.14296
+45,Elegant IV Lounge,7448 W Sahara Ave,Las Vegas,NV,89117,7448 W Sahara Ave Las Vegas NV 89117,"[-115.25484, 36.14534]",-115.25484,36.14534
+46,The Fisher Center for Aesthetic,6539 Las Vegas Blvd S Ste 111,Las Vegas,NV,89119,6539 Las Vegas Blvd S Ste 111 Las Vegas NV 89119,"[-115.17249, 36.07006]",-115.17249,36.07006
+47,BeYoutiful Spa Las Vegas,11135 S Eastern Ave,Henderson,NV,89052,11135 S Eastern Ave Henderson NV 89052,"[-115.102107, 35.99002]",-115.102107,35.99002
+48,Radiant Beauty Skin Care Med Spa,2080 E Flamingo Rd,Las Vegas,NV,89119,2080 E Flamingo Rd Las Vegas NV 89119,"[-115.12454, 36.11565]",-115.12454,36.11565
+49,Eterne Beauty,2820 W Charleston Blvd,Las Vegas,NV,89102,2820 W Charleston Blvd Las Vegas NV 89102,"[-115.180513, 36.160458]",-115.180513,36.160458
+50,LV Tamed Body,1810 E Sahara Ave,Las Vegas,NV,89104,1810 E Sahara Ave Las Vegas NV 89104,"[-115.12486, 36.145165]",-115.12486,36.145165
+51,SOS WAX and Skincare - Aliante,6180 N Decatur Blvd,North Las Vegas,NV,89031,6180 N Decatur Blvd North Las Vegas NV 89031,"[-115.210185, 36.273035]",-115.210185,36.273035
+52,The Skin Clinic at Esthetique Plastique,8954 Spanish Ridge Ave #101,Las Vegas,NV,89148,8954 Spanish Ridge Ave #101 Las Vegas NV 89148,"[-115.287785, 36.090955]",-115.287785,36.090955
+53,Chic la Vie Med Spa,7650 W Sahara Ave suite 3,Las Vegas,NV,89117,7650 W Sahara Ave suite 3 Las Vegas NV 89117,"[-115.25789, 36.14438]",-115.25789,36.14438
+54,Advanced Aesthetics,2150 S Rainbow Blvd,Las Vegas,NV,89146,2150 S Rainbow Blvd Las Vegas NV 89146,"[-115.24242, 36.148435]",-115.24242,36.148435
+55,The I.V. Doc Las Vegas,400 S 4th St UNIT 563,Las Vegas,NV,89101,400 S 4th St UNIT 563 Las Vegas NV 89101,"[-115.14457, 36.16602]",-115.14457,36.16602
+56,Deux Rosé Beauty Refinery,9340 W Martin Ave,Las Vegas,NV,89101,9340 W Martin Ave Las Vegas NV 89101,"[-115.29627, 36.06731]",-115.29627,36.06731
+57,bluepoint medical spa,3320 N Buffalo Dr #103,Las Vegas,NV,89129,3320 N Buffalo Dr #103 Las Vegas NV 89129,"[-115.25985, 36.22155]",-115.25985,36.22155
+58,REVIV Las Vegas Palazzo - IV Therapy,3327 S Las Vegas Blvd,Las Vegas,NV,89109,3327 S Las Vegas Blvd Las Vegas NV 89109,"[-115.168261, 36.124203]",-115.168261,36.124203
+59,Las Vegas Aesthetics,9081 W Sahara Ave STE 230,Las Vegas,NV,89117,9081 W Sahara Ave STE 230 Las Vegas NV 89117,"[-115.29496, 36.14305]",-115.29496,36.14305
+60,The Spa At Lakes Dermatology,8861 W Sahara Ave,Las Vegas,NV,89117,8861 W Sahara Ave Las Vegas NV 89117,"[-115.29014, 36.14361]",-115.29014,36.14361
+61,"Transformations, Anti-Aging MedSpa & Wellness Center",2931 N Tenaya Way,Las Vegas,NV,89128,2931 N Tenaya Way Las Vegas NV 89128,"[-115.251, 36.21462]",-115.251,36.21462
+62,Beauty by Design Med Spa,5375 S Fort Apache Rd Suite 101,Las Vegas,NV,89117,5375 S Fort Apache Rd Suite 101 Las Vegas NV 89117,"[-115.29829, 36.09113]",-115.29829,36.09113
+63,LightRx - Las Vegas - Summerlin,9360 W Flamingo Rd #104,Las Vegas,NV,89147,9360 W Flamingo Rd #104 Las Vegas NV 89147,"[-115.29564, 36.11502]",-115.29564,36.11502
+64,Regenerate Me IV Linq Hotel & Casino,3535 S Las Vegas Blvd #G101,Las Vegas,NV,89109,3535 S Las Vegas Blvd #G101 Las Vegas NV 89109,"[-115.1707, 36.11834]",-115.1707,36.11834
+65,A Perfect You LV,6461 N Durango Dr,Las Vegas,NV,89149,6461 N Durango Dr Las Vegas NV 89149,"[-115.27891, 36.27858]",-115.27891,36.27858
+66,Dr. K Beauty,7710 W Sahara Ave suite 102C,Las Vegas,NV,89117,7710 W Sahara Ave suite 102C Las Vegas NV 89117,"[-115.25934, 36.14473]",-115.25934,36.14473
+67,"Thomas Pulice, PA-C",9081 W Sahara Ave STE 230,Las Vegas,NV,89117,9081 W Sahara Ave STE 230 Las Vegas NV 89117,"[-115.29496, 36.14305]",-115.29496,36.14305
+68,InstaCryo,7175 W Lake Mead Blvd Suite 168,Las Vegas,NV,89128,7175 W Lake Mead Blvd Suite 168 Las Vegas NV 89128,"[-115.24813, 36.19553]",-115.24813,36.19553
+69,Tighten & Tone Las Vegas,7045 W Ann Rd #130,Las Vegas,NV,89130,7045 W Ann Rd #130 Las Vegas NV 89130,"[-115.24845, 36.26302]",-115.24845,36.26302
+70,Ageless Mens Health,2911 N Tenaya Way #105,Las Vegas,NV,89128,2911 N Tenaya Way #105 Las Vegas NV 89128,"[-115.2502, 36.21396]",-115.2502,36.21396
+71,Canyon Ranch Spa + Fitness Las Vegas,3355 S Las Vegas Blvd #1159,Las Vegas,NV,89109,3355 S Las Vegas Blvd #1159 Las Vegas NV 89109,"[-115.1711, 36.12262]",-115.1711,36.12262
+72,Spoiled Laser,8665 W Flamingo Rd #109,Las Vegas,NV,89147,8665 W Flamingo Rd #109 Las Vegas NV 89147,"[-115.2807, 36.11436]",-115.2807,36.11436
+73,TrimCare,5052 S Jones Blvd Suite 145,Las Vegas,NV,89148,5052 S Jones Blvd Suite 145 Las Vegas NV 89148,"[-115.22444, 36.09683]",-115.22444,36.09683
+74,Plastic Surgery Vegas,8530 W Sunset Rd Ste 130,Las Vegas,NV,89113,8530 W Sunset Rd Ste 130 Las Vegas NV 89113,"[-115.27768, 36.07137]",-115.27768,36.07137
+75,Vjazzy Wellness,900 S Valley View Blvd #100,Las Vegas,NV,89107,900 S Valley View Blvd #100 Las Vegas NV 89107,"[-115.19286, 36.16121]",-115.19286,36.16121
+76,MyShape Lipo,2610 W Horizon Ridge Pkwy #203,Henderson,NV,89052,2610 W Horizon Ridge Pkwy #203 Henderson NV 89052,"[-115.102411, 36.002865]",-115.102411,36.002865
+77,HEALOR,3900 W Charleston Blvd Ste 170,Las Vegas,NV,89102,3900 W Charleston Blvd Ste 170 Las Vegas NV 89102,"[-115.19247, 36.15915]",-115.19247,36.15915
+78,El Cortez Hotel and Casino,600 E Fremont St,Las Vegas,NV,89101,600 E Fremont St Las Vegas NV 89101,"[-115.138625, 36.169095]",-115.138625,36.169095
+79,Las Vegas Spa Association,3935 W Reno Ave Suite i,Las Vegas,NV,89101,3935 W Reno Ave Suite i Las Vegas NV 89118,"[-115.1916, 36.09676]",-115.1916,36.09676
+80,Muller Sigfrid A MD,630 S Rancho Dr suite e,Las Vegas,NV,89106,630 S Rancho Dr suite e Las Vegas NV 89106,"[-115.17389, 36.16303]",-115.17389,36.16303
+81,The Stirling Club,2827 Paradise Rd,Las Vegas,NV,89109,2827 Paradise Rd Las Vegas NV 89109,"[-115.15641, 36.13753]",-115.15641,36.13753
+82,Infinity Massage & Spa,8335 S Las Vegas Blvd,Las Vegas,NV,89123,8335 S Las Vegas Blvd Las Vegas NV 89123,"[-115.17489, 36.03797]",-115.17489,36.03797
+83,Reynolds Plastic Surgery,5550 Painted Mirage Rd #217,Las Vegas,NV,89149,5550 Painted Mirage Rd #217 Las Vegas NV 89149,"[-115.25499, 36.26188]",-115.25499,36.26188
+84,Good Samaritan - Health Clinic Las Vegas,3201 S Maryland Pkwy Suite 314,Las Vegas,NV,89109,3201 S Maryland Pkwy Suite 314 Las Vegas NV 89109,"[-115.13778, 36.13166]",-115.13778,36.13166
+85,Westgate Las Vegas Resort & Casino,3000 Paradise Rd,Las Vegas,NV,89109,3000 Paradise Rd Las Vegas NV 89109,"[-115.1529, 36.13698]",-115.1529,36.13698
+86,Herte Center For Cosmetic Surgery,7281 W Sahara Ave Suite 100,Las Vegas,NV,89117,7281 W Sahara Ave Suite 100 Las Vegas NV 89117,"[-115.2516, 36.14241]",-115.2516,36.14241
+87,Lakes Dermatology,8861 W Sahara Ave #290,Las Vegas,NV,89117,8861 W Sahara Ave #290 Las Vegas NV 89117,"[-115.29014, 36.14361]",-115.29014,36.14361
+88,Lasting Smiles Dental Care,4011 Meadows Ln #101,Las Vegas,NV,89107,4011 Meadows Ln #101 Las Vegas NV 89107,"[-115.19439, 36.169545]",-115.19439,36.169545
+89,Ageless Forever,6020 S Rainbow Blvd suite c,Las Vegas,NV,89107,6020 S Rainbow Blvd suite c Las Vegas NV 89118,"[-115.2418, 36.07939]",-115.2418,36.07939
+90,"IMR Massage Eastern - Sports Massage, Cupping Therapy, Deep Tissue, Facials, Sauna",8872 S Eastern Ave #103,Las Vegas,NV,89123,8872 S Eastern Ave #103 Las Vegas NV 89123,"[-115.11833, 36.02825]",-115.11833,36.02825
+91,Centennial Hills Salon,7991 W Tropical Pkwy Suite 120,Las Vegas,NV,89149,7991 W Tropical Pkwy Suite 120 Las Vegas NV 89149,"[-115.26958, 36.2702]",-115.26958,36.2702
+92,Four Seasons Hotel Las Vegas,3960 S Las Vegas Blvd,Las Vegas,NV,89119,3960 S Las Vegas Blvd Las Vegas NV 89119,"[-115.17298, 36.09211]",-115.17298,36.09211
+93,Family Doctors Medical Center,1703 Civic Center Dr # 6,North Las Vegas,NV,89030,1703 Civic Center Dr # 6 North Las Vegas NV 89030,"[-115.11709, 36.19107]",-115.11709,36.19107
+94,Forever Flawless,"Las Vegas, NV 89119",Las Vegas,NV,89119,"Las Vegas, NV 89119 Las Vegas NV 89119","[-115.148447, 36.078117]",-115.148447,36.078117
+95,Stem Cell Therapy Of Las Vegas & Medical Spa,2110 E Flamingo Rd Ste 333,Las Vegas,NV,89119,2110 E Flamingo Rd Ste 333 Las Vegas NV 89119,"[-115.12317, 36.115655]",-115.12317,36.115655
+96,H W Medical Spa & Colonics,9895 S Maryland Pkwy,Las Vegas,NV,89183,9895 S Maryland Pkwy Las Vegas NV 89183,"[-115.137315, 36.010155]",-115.137315,36.010155
+97,Serenity Spa by Westgate,3000 Paradise Road,Las Vegas,NV,89109,3000 Paradise Road Las Vegas NV 89109,"[-115.1529, 36.13698]",-115.1529,36.13698
+98,Vida Spa,3225 S Rainbow Blvd Ste 107,Las Vegas,NV,89146,3225 S Rainbow Blvd Ste 107 Las Vegas NV 89146,"[-115.24345, 36.13044]",-115.24345,36.13044
+99,Oleksandra Spa & Salon,3300 Las Vegas Blvd S,Las Vegas,NV,89109,3300 Las Vegas Blvd S Las Vegas NV 89109,"[-115.172397, 36.124527]",-115.172397,36.124527
+100,Downtown Grand Hotel & Casino,206 N 3rd St,Las Vegas,NV,89101,206 N 3rd St Las Vegas NV 89101,"[-115.1415, 36.17224]",-115.1415,36.17224
+101,Madame Et Monsieur,3355 S Highland Dr Ste 107,Las Vegas,NV,89109,3355 S Highland Dr Ste 107 Las Vegas NV 89109,"[-115.1791, 36.12906]",-115.1791,36.12906
+102,TrimBody M.D.,9310 S Eastern Ave Ste 122,Las Vegas,NV,89123,9310 S Eastern Ave Ste 122 Las Vegas NV 89123,"[-115.117435, 36.019535]",-115.117435,36.019535
+103,Radiance Med Spa,9555 S Eastern Ave,Las Vegas,NV,89123,9555 S Eastern Ave Las Vegas NV 89123,"[-115.11885, 36.015]",-115.11885,36.015
+104,Cal Spas of Las Vegas,7770 Dean Martin Dr,Las Vegas,NV,89139,7770 Dean Martin Dr Las Vegas NV 89139,"[-115.18346, 36.04799]",-115.18346,36.04799
+105,Kelly's Organic Skin Care,4343 N Rancho Dr,Las Vegas,Nv,89130,4343 N Rancho Dr Las Vegas Nv 89130,"[-115.23334, 36.23888]",-115.23334,36.23888
+106,Radiance Medspa,7210 W Lake Mead Blvd,Las Vegas,Nv,89128,7210 W Lake Mead Blvd Las Vegas Nv 89128,"[-115.24938, 36.19614]",-115.24938,36.19614
+107,Nu Image Med Spa Inc,3753 Howard Hughes Pkwy,Las Vegas,Nv,89169,3753 Howard Hughes Pkwy Las Vegas Nv 89169,"[-115.1579, 36.12044]",-115.1579,36.12044
+108,Episage Wellness Center,2110 E Flamingo Rd,Las Vegas,Nv,89119,2110 E Flamingo Rd Las Vegas NV 89119,"[-115.12317, 36.115655]",-115.12317,36.115655
+109,"Haydee Docasar, MD - RejuVAnation",6785 W. Russell Road,Las Vegas,Nv,89119,6785 W. Russell Road Las Vegas NV 89118,"[-115.240385, 36.08464]",-115.240385,36.08464
+110,International Beauty Show Las Vegas,3150 Paradise Rd,Las Vegas,Nv,89109,3150 Paradise Rd Las Vegas NV 89109,"[-115.15184, 36.13132]",-115.15184,36.13132
+111,The Salt Room,10624 S Eastern Ave,Henderson,Nv,89052,10624 S Eastern Ave Henderson NV 89052,"[-115.101985, 35.998635]",-115.101985,35.998635
+112,L'Occitane en Provence,755 S Grand Central Pkwy,Las Vegas,Nv,89106,755 S Grand Central Pkwy Las Vegas NV 89106,"[-115.15641, 36.16412]",-115.15641,36.16412
+113,BestU Health Boutique,801 South Rancho Dr,Las Vegas,Nv,89106,801 South Rancho Dr Las Vegas NV 89106,"[-115.17195, 36.16148]",-115.17195,36.16148
+114,Dr Refresh Las Vegas,3000 S Las Vegas Blvd,Las Vegas,Nv,89109,3000 S Las Vegas Blvd Las Vegas NV 89109,"[-115.16785, 36.13422]",-115.16785,36.13422
+115,Infusion Care,8530 W. Sunset Rd.,Las Vegas,Nv,89113,8530 W. Sunset Rd. Las Vegas NV 89113,"[-115.27768, 36.07137]",-115.27768,36.07137
+116,Las Vegas Dermatology,653 N Town Center Dr #414,Las Vegas,Nv,89144,653 N Town Center Dr #414 Las Vegas NV 89144,"[-115.31622, 36.18043]",-115.31622,36.18043
+117,Hankins & Sohn Plastic Surgery Associates,60 N Pecos Rd,Henderson,Nv,89074,60 N Pecos Rd Henderson NV 89074,"[-115.09927, 36.03187]",-115.09927,36.03187
+118,Avalon Institute - Las Vegas,2650 S Decatur Blvd,Las Vegas,Nv,89102,2650 S Decatur Blvd Las Vegas NV 89102,"[-115.20689, 36.14195]",-115.20689,36.14195
+119,Las Vegas Skin & Cancer Buffalo,1250 S Buffalo Dr #170,Las Vegas,Nv,89117,1250 S Buffalo Dr #170 Las Vegas NV 89117,"[-115.26136, 36.15614]",-115.26136,36.15614
+120,Elite Medical Center,150 E Harmon Ave,Las Vegas,Nv,89109,150 E Harmon Ave Las Vegas NV 89109,"[-115.1659, 36.10879]",-115.1659,36.10879
+121,Alpha Vein Clinic,3150 N Tenaya Way Ste 400,Las Vegas,Nv,89128,3150 N Tenaya Way Ste 400 Las Vegas NV 89128,"[-115.24943, 36.21667]",-115.24943,36.21667
+122,The Neck and Back Clinics,825 S 7th St,Las Vegas,Nv,89101,825 S 7th St Las Vegas NV 89101,"[-115.14372, 36.159455]",-115.14372,36.159455
+123,Northwest Massage Student Clinic,2471 Professional Ct,Las Vegas,Nv,89128,2471 Professional Ct Las Vegas NV 89128,"[-115.25531, 36.20539]",-115.25531,36.20539
+124,"Fast Fit Body Sculpting Of Henderson, Nevada",9480 S. Eastern Ave Suite 125,Las Vegas,Nv,89123,9480 S. Eastern Ave Suite 125 Las Vegas NV 89123,"[-115.11858, 36.01721]",-115.11858,36.01721
+125,DermaBella Medical Spa and CoolSculpting Clinic,7170 Smoke Ranch Rd #150,Las Vegas,Nv,89128,7170 Smoke Ranch Rd #150 Las Vegas NV 89128,"[-115.24848, 36.20413]",-115.24848,36.20413
+126,Apex Medical Spa,1701 Wellness Wy UNIT 201,Las Vegas,Nv,89106,1701 Wellness Wy UNIT 201 Las Vegas NV 89106,"[-115.16403, 36.16153]",-115.16403,36.16153
+127,ReNu Image Med Spa,900 S Valley View Blvd #100,Las Vegas,Nv,89107,900 S Valley View Blvd #100 Las Vegas NV 89107,"[-115.19286, 36.16121]",-115.19286,36.16121
+128,Center For Aesthetic Medicine and Human Performance,3038 S Durango Dr Suite 100,Las Vegas,Nv,89117,3038 S Durango Dr Suite 100 Las Vegas NV 89117,"[-115.27695, 36.13417]",-115.27695,36.13417
+129,phaze laser med spa,9420 W Sahara Ave #105,Las Vegas,Nv,89117,9420 W Sahara Ave #105 Las Vegas NV 89117,"[-115.30039, 36.1445]",-115.30039,36.1445
+130,Las Vegas Perfection Med Spa,1825 Village Center Cir #110,Las Vegas,Nv,89117,1825 Village Center Cir #110 Las Vegas NV 89117,"[-115.30131, 36.19296]",-115.30131,36.19296
+131,Hangover IV,1810 E Sahara Ave #203,Las Vegas,Nv,89104,1810 E Sahara Ave #203 Las Vegas NV 89104,"[-115.12486, 36.145165]",-115.12486,36.145165
+132,Bellavue Medical,7488 W Sahara Ave,Las Vegas,Nv,89117,7488 W Sahara Ave Las Vegas NV 89117,"[-115.25516, 36.14414]",-115.25516,36.14414
+133,Beautiful MedSpa,4280 S Hualapai Way #200,Las Vegas,Nv,89147,4280 S Hualapai Way #200 Las Vegas NV 89147,"[-115.31434, 36.11206]",-115.31434,36.11206
+134,New Life New Image,8867 W Flamingo Rd UNIT 101,Las Vegas,Nv,89147,8867 W Flamingo Rd UNIT 101 Las Vegas NV 89147,"[-115.28506, 36.11382]",-115.28506,36.11382
+135,VIP Luxury Salon & Spa,3779 E Desert Inn Rd,Las Vegas,Nv,89121,3779 E Desert Inn Rd Las Vegas NV 89121,"[-115.09283, 36.12969]",-115.09283,36.12969
+136,eBodyRenew HQ (by Madame et Monsieur),2610 W Horizon Ridge Pkwy Suite #200,Henderson,Nv,89109,2610 W Horizon Ridge Pkwy Suite #200 Henderson NV 89109,"[-115.102411, 36.002865]",-115.102411,36.002865
+137,White Coat Aesthetics,2400 N Buffalo Dr Ste 110,Las Vegas,Nv,89128,2400 N Buffalo Dr Ste 110 Las Vegas NV 89128,"[-115.259975, 36.20406]",-115.259975,36.20406
+138,Spring Mountain Aesthetics,4276 Spring Mountain Rd Suite 200,Las Vegas,Nv,89102,4276 Spring Mountain Rd Suite 200 Las Vegas NV 89102,"[-115.197186, 36.127955]",-115.197186,36.127955
+139,Indulge Aesthetics,3975 S Durango Dr # 101,Las Vegas,Nv,89147,3975 S Durango Dr # 101 Las Vegas NV 89147,"[-115.27966, 36.11789]",-115.27966,36.11789
+140,Cosmetique Aesthetics,7710 W Sahara Ave suite 102,Las Vegas,Nv,89117,7710 W Sahara Ave suite 102 Las Vegas NV 89117,"[-115.25934, 36.14473]",-115.25934,36.14473
+141,LIV Beautiful Premier Aesthetics,3200 N Soaring Gulls Dr suite 103,Las Vegas,Nv,89128,3200 N Soaring Gulls Dr suite 103 Las Vegas NV 89128,"[-115.27431, 36.21887]",-115.27431,36.21887
+142,"Love Your Body Medical Spa: Divina Averilla, MD",5693 S Jones Blvd #108,Las Vegas,Nv,89128,5693 S Jones Blvd #108 Las Vegas NV 89118,"[-115.22596, 36.08648]",-115.22596,36.08648
+143,Violetas Organic Spa,8751 W Charleston Blvd Suite # 190,Las Vegas,Nv,89117,8751 W Charleston Blvd Suite # 190 Las Vegas NV 89117,"[-115.28584, 36.15805]",-115.28584,36.15805
+144,Kalologie Medspa,3730 S Las Vegas Blvd,Las Vegas,Nv,89158,3730 S Las Vegas Blvd Las Vegas NV 89158,"[-115.17673, 36.10719]",-115.17673,36.10719
+145,VR Health Clinic Virtual Reality Neurofeedback,730 W Cheyenne Ave Unit 30,North Las Vegas,Nv,89030,730 W Cheyenne Ave Unit 30 North Las Vegas NV 89030,"[-115.15098, 36.21792]",-115.15098,36.21792
+146,Novuskin Med Spa,7155 S Rainbow Blvd Suite 200,Las Vegas,Nv,89030,7155 S Rainbow Blvd Suite 200 Las Vegas NV 89118,"[-115.2435, 36.05825]",-115.2435,36.05825
+147,Simply Radiant Med Spa,5568 S Fort Apache Rd,Las Vegas,Nv,89148,5568 S Fort Apache Rd Las Vegas NV 89148,"[-115.29511, 36.087805]",-115.29511,36.087805
+148,Five Years Younger,2610 W Horizon Ridge Pkwy,Henderson,Nv,89109,2610 W Horizon Ridge Pkwy Henderson NV 89109,"[-115.102411, 36.002865]",-115.102411,36.002865
+149,Paris Laser & Cosmetic Tattoo,5135 S Durango Dr suite 101,Las Vegas,Nv,89113,5135 S Durango Dr suite 101 Las Vegas NV 89113,"[-115.279745, 36.095575]",-115.279745,36.095575
+150,Ageless by Reva,5052 S Jones Blvd Suite 145,Las Vegas,Nv,89148,5052 S Jones Blvd Suite 145 Las Vegas NV 89148,"[-115.22444, 36.09683]",-115.22444,36.09683
+151,Dolce Skin and Laser,2330 Paseo Del Prado c305,Las Vegas,Nv,89102,2330 Paseo Del Prado c305 Las Vegas NV 89102,"[-115.17909, 36.14673]",-115.17909,36.14673
+152,Sahara Medical Institute,5781 W Sahara Ave #500,Las Vegas,Nv,89146,5781 W Sahara Ave #500 Las Vegas NV 89146,"[-115.2204, 36.14355]",-115.2204,36.14355
+153,Eye Candy Aesthetics,6345 S Rainbow Blvd #104,Las Vegas,Nv,89146,6345 S Rainbow Blvd #104 Las Vegas NV 89118,"[-115.24372, 36.07311]",-115.24372,36.07311
+154,Summerville Medical & Wellness Center,2701 N Tenaya Way #240,Las Vegas,Nv,89128,2701 N Tenaya Way #240 Las Vegas NV 89128,"[-115.2502, 36.209765]",-115.2502,36.209765
+155,I.V Vitamin Therapy Clinic,3790 Paradise Rd #140,Las Vegas,Nv,89169,3790 Paradise Rd #140 Las Vegas NV 89169,"[-115.15445, 36.120505]",-115.15445,36.120505
+156,Zen Skin Skin Care MedSpa,5435 S Fort Apache Rd #102,Las Vegas,Nv,89148,5435 S Fort Apache Rd #102 Las Vegas NV 89148,"[-115.297895, 36.09034]",-115.297895,36.09034
+157,Modern Wellness Clinic,5375 S Fort Apache Rd Suite 102 & 103,Las Vegas,Nv,89146,5375 S Fort Apache Rd Suite 102 & 103 Las Vegas NV 89146,"[-115.29753, 36.09208]",-115.29753,36.09208
+158,Radiance Medspa of Las Vegas,St Rose Pkwy,Las Vegas,Nv,89128,St Rose Pkwy Las Vegas NV 89128,"[-115.252463, 36.205867]",-115.252463,36.205867
+159,"Look Younger MD - Henderson, NV",2610 W Horizon Ridge Pkwy Suite 205,Henderson,Nv,89052,2610 W Horizon Ridge Pkwy Suite 205 Henderson NV 89052,"[-115.102411, 36.002865]",-115.102411,36.002865
+160,Laser & Skin Care Center Of Nevada,8954 Spanish Ridge Ave #101,Las Vegas,Nv,89148,8954 Spanish Ridge Ave #101 Las Vegas NV 89148,"[-115.287785, 36.090955]",-115.287785,36.090955
+161,"Strimling Dermatology, Laser & Vein Institute",10105 Banburry Cross Dr #350,Las Vegas,Nv,89144,10105 Banburry Cross Dr #350 Las Vegas NV 89144,"[-115.31766, 36.18447]",-115.31766,36.18447
+162,Kyou Beauty Salon,4009 Spring Mountain Rd,Las Vegas,Nv,89102,4009 Spring Mountain Rd Las Vegas NV 89102,"[-115.19415, 36.12633]",-115.19415,36.12633
+163,Ivy Laser Salon,6125 S Fort Apache Rd #204,Las Vegas,Nv,89148,6125 S Fort Apache Rd #204 Las Vegas NV 89148,"[-115.29768, 36.07997]",-115.29768,36.07997
+164,Luxe MD Aesthetics - Medical Spa Las Vegas,6787 W Tropicana Ave Ste 110,Las Vegas,Nv,89103,6787 W Tropicana Ave Ste 110 Las Vegas NV 89103,"[-115.23989, 36.09849]",-115.23989,36.09849
+165,Tru Beauty by Trevor,3860 S Hualapai Way,Las Vegas,Nv,89147,3860 S Hualapai Way Las Vegas NV 89147,"[-115.31436, 36.120195]",-115.31436,36.120195
+166,Sikara Medspa,1955 Festival Plaza Dr Suite 180,Las Vegas,Nv,89135,1955 Festival Plaza Dr Suite 180 Las Vegas NV 89135,"[-115.33432, 36.15019]",-115.33432,36.15019
+167,Pearl Skin Studio,9580 W Sahara Ave #109,Las Vegas,Nv,89117,9580 W Sahara Ave #109 Las Vegas NV 89117,"[-115.30384, 36.14481]",-115.30384,36.14481
+168,Las Vegas Optimal Health Center,2480 Professional Ct #110,Las Vegas,Nv,89128,2480 Professional Ct #110 Las Vegas NV 89128,"[-115.25455, 36.20521]",-115.25455,36.20521
+169,LIV WELLNESS,3192 Bel Air Dr,Las Vegas,Nv,89102,3192 Bel Air Dr Las Vegas NV 89102,"[-115.14379, 36.13217]",-115.14379,36.13217
+170,Always Beautifull,2560 Belcastro St,Las Vegas,Nv,89117,2560 Belcastro St Las Vegas NV 89117,"[-115.24932, 36.1431]",-115.24932,36.1431
+171,Nvd Body Spa,6670 S Tenaya Way bld. 140 suite 9,Las Vegas,Nv,89113,6670 S Tenaya Way bld. 140 suite 9 Las Vegas NV 89113,"[-115.25159, 36.06705]",-115.25159,36.06705
+172,New U Natural Beauty,4860 W Desert Inn Rd,Las Vegas,Nv,89102,4860 W Desert Inn Rd Las Vegas NV 89102,"[-115.20671, 36.13009]",-115.20671,36.13009
+173,Regenerate Medical Concierge,2280 Paseo Verde Pkwy #100,Henderson,Nv,89052,2280 Paseo Verde Pkwy #100 Henderson NV 89052,"[-115.087031, 36.0199]",-115.087031,36.0199
+174,Simply Skin Las Vegas,6920 S Cimarron Rd Suite 200,Las Vegas,Nv,89113,6920 S Cimarron Rd Suite 200 Las Vegas NV 89113,"[-115.26892, 36.06204]",-115.26892,36.06204
+175,Valhalla Wellness and Medical Centers,2851 N Tenaya Way Suite 103,Las Vegas,Nv,89128,2851 N Tenaya Way Suite 103 Las Vegas NV 89128,"[-115.25001, 36.21251]",-115.25001,36.21251
+176,"Premier Ob/Gyn and Med Spa: Hayat Jawadi, DO, FACOG",3041 W Horizon Ridge Pkwy Suite 165,Henderson,Nv,89052,3041 W Horizon Ridge Pkwy Suite 165 Henderson NV 89052,"[-115.121487, 35.997581]",-115.121487,35.997581
+177,Skin Fuzion,11201 S Eastern Ave #120,Henderson,Nv,89052,11201 S Eastern Ave #120 Henderson NV 89052,"[-115.10166, 35.98859]",-115.10166,35.98859
+178,SurgiSpa,2370 W Horizon Ridge Pkwy #130,Henderson,Nv,89052,2370 W Horizon Ridge Pkwy #130 Henderson NV 89052,"[-115.0909, 36.00619]",-115.0909,36.00619
+179,Four Seasons Dental Spa,8855 W Flamingo Rd #101,Las Vegas,Nv,89147,8855 W Flamingo Rd #101 Las Vegas NV 89147,"[-115.28506, 36.1144]",-115.28506,36.1144
+180,Squad Beauty Professionals,2901 El Camino Ave #102,Las Vegas,Nv,89102,2901 El Camino Ave #102 Las Vegas NV 89102,"[-115.18128, 36.14607]",-115.18128,36.14607
+181,Zen Body & Skin,2490 Paseo Verde Pkwy #100,Henderson,Nv,89120,2490 Paseo Verde Pkwy #100 Henderson NV 89120,"[-115.096431, 36.020195]",-115.096431,36.020195
+182,Evocative Med Spa,4375 S Buffalo Dr # 101A,Las Vegas,Nv,89147,4375 S Buffalo Dr # 101A Las Vegas NV 89147,"[-115.261855, 36.109455]",-115.261855,36.109455
+183,Aesthetic Revolution Las Vegas - Dr. Zimmerman,9130 W Post Rd Suite 100,Las Vegas,Nv,89148,9130 W Post Rd Suite 100 Las Vegas NV 89148,"[-115.29117, 36.07552]",-115.29117,36.07552
+184,Original You,7375 Prairie Falcon Rd Suite 150,Las Vegas,Nv,89128,7375 Prairie Falcon Rd Suite 150 Las Vegas NV 89128,"[-115.255159, 36.206455]",-115.255159,36.206455
+185,A Touch of Las Vegas Med Spa & Thai Massage,4305 Dean Martin Dr #160,Las Vegas,Nv,89103,4305 Dean Martin Dr #160 Las Vegas NV 89103,"[-115.181737, 36.111183]",-115.181737,36.111183
+186,Green Valley Aesthetics Laser and Skin Care Center,43 S Stephanie St Ste 150,Henderson,Nv,89012,43 S Stephanie St Ste 150 Henderson NV 89012,"[-115.049339, 36.027466]",-115.049339,36.027466
+187,Vanity Body Boutique,9330 W Sahara Ave Suite 140,Las Vegas,Nv,89117,9330 W Sahara Ave Suite 140 Las Vegas NV 89117,"[-115.299115, 36.145675]",-115.299115,36.145675
+188,Radiant Beauty Skin Care Med Spa,2080 E Flamingo Rd Suite 113,Las Vegas,Nv,89119,2080 E Flamingo Rd Suite 113 Las Vegas NV 89119,"[-115.12454, 36.11565]",-115.12454,36.11565
+189,Hangover IV Hydration,5552 S Fort Apache Rd #120,Las Vegas,Nv,89148,5552 S Fort Apache Rd #120 Las Vegas NV 89148,"[-115.296945, 36.087765]",-115.296945,36.087765
+190,SKIN Las Vegas Med Spa,4270 S Decatur Blvd Suite B11,Las Vegas,Nv,89103,4270 S Decatur Blvd Suite B11 Las Vegas NV 89103,"[-115.20711, 36.11229]",-115.20711,36.11229
+191,Lduna Aesthetics and Wellness Center,10521 Jeffreys St Meeting Room,Henderson,Nv,89052,10521 Jeffreys St Meeting Room Henderson NV 89052,"[-115.119867, 36.00061]",-115.119867,36.00061
+192,Luxury Thai Spa Massage,2555 Montessouri St Suite #B,Las Vegas,Nv,89117,2555 Montessouri St Suite #B Las Vegas NV 89117,"[-115.24801, 36.14309]",-115.24801,36.14309
+193,Sonic Body Works,6539 S Las Vegas Blvd Suite 110,Las Vegas,Nv,89119,6539 S Las Vegas Blvd Suite 110 Las Vegas NV 89119,"[-115.17249, 36.07006]",-115.17249,36.07006
+194,Acne Clinic Las Vegas by Justina,3220 S Durango Dr Ste B3,Las Vegas,Nv,89117,3220 S Durango Dr Ste B3 Las Vegas NV 89117,"[-115.278455, 36.13082]",-115.278455,36.13082
+195,Skinbar,10870 S Eastern Ave # 100,Henderson,Nv,89052,10870 S Eastern Ave # 100 Henderson NV 89052,"[-115.099967, 35.995695]",-115.099967,35.995695
+196,Vivida Dermatology,6460 Medical Center St suite 200 & 350,Las Vegas,Nv,89148,6460 Medical Center St suite 200 & 350 Las Vegas NV 89148,"[-115.290695, 36.07117]",-115.290695,36.07117
+197,The Real Deal MedSpa Las Vegas,4220 S Grand Canyon Dr Suite 7,Las Vegas,Nv,89147,4220 S Grand Canyon Dr Suite 7 Las Vegas NV 89147,"[-115.30608, 36.1127]",-115.30608,36.1127
+198,SAFI MIRAN Las Vegas Laser & Rejuvenation Center,1801 S Rainbow Blvd,Las Vegas,Nv,89146,1801 S Rainbow Blvd Las Vegas NV 89146,"[-115.24397, 36.15129]",-115.24397,36.15129
+199,MyShape MedSpa and Aesthetics,8930 W Sunset Rd Suite 370,Las Vegas,Nv,89148,8930 W Sunset Rd Suite 370 Las Vegas NV 89148,"[-115.28662, 36.07192]",-115.28662,36.07192
+200,L.A. Laser Hair Removal LV,621 S Tonopah Dr,Las Vegas,Nv,89106,621 S Tonopah Dr Las Vegas NV 89106,"[-115.16958, 36.163555]",-115.16958,36.163555
+201,"Heather L. Rohrer, PA-C",1151 S Buffalo Dr #130,Las Vegas,Nv,89117,1151 S Buffalo Dr #130 Las Vegas NV 89117,"[-115.26292, 36.15803]",-115.26292,36.15803
+202,BosBeauty,7997 W Sahara Ave,Las Vegas,Nv,89147,7997 W Sahara Ave Las Vegas NV 89147,"[-115.26498, 36.14369]",-115.26498,36.14369
+203,LV Skin and Laser,Odette Ln,Las Vegas,Nv,89117,Odette Ln Las Vegas NV 89117,"[-115.2889, 36.15399]",-115.2889,36.15399
+204,Esthetician Salon,Parking lot,Las Vegas,Nv,89121,Parking lot Las Vegas NV 89121,"[-115.085083, 36.133927]",-115.085083,36.133927
+205,Beverly Hills Plastic Surgeons,4284 Spring Mountain Rd Suite 201,Las Vegas,Nv,89102,4284 Spring Mountain Rd Suite 201 Las Vegas NV 89102,"[-115.197881, 36.128015]",-115.197881,36.128015
+206,A Harmony Nail Spa,953 East Sahara Avenue e11a Building E-Center Of Plaza,Las Vegas,Nv,89104,953 East Sahara Avenue e11a Building E-Center Of Plaza Las Vegas NV 89104,"[-115.14435, 36.14301]",-115.14435,36.14301
+207,Scinature Aesthetics,5595 Spring Mountain Rd Ste B,Las Vegas,Nv,89146,5595 Spring Mountain Rd Ste B Las Vegas NV 89146,"[-115.21825, 36.12567]",-115.21825,36.12567
+208,SkinRN,6787 W Tropicana Ave Suite 102,Las Vegas,Nv,89117,6787 W Tropicana Ave Suite 102 Las Vegas NV 89117,"[-115.24005, 36.09973]",-115.24005,36.09973
+209,Eye Candy Medspa,6970 W Patrick Ln Suite 140,Las Vegas,Nv,89113,6970 W Patrick Ln Suite 140 Las Vegas NV 89113,"[-115.24434, 36.07927]",-115.24434,36.07927
+210,Skinetic Aesthetics,7975 W Sahara Ave Suite 103,Las Vegas,Nv,89146,7975 W Sahara Ave Suite 103 Las Vegas NV 89146,"[-115.26448, 36.14367]",-115.26448,36.14367
+211,Medicreations LLC,6370 Annie Oakley Dr,Las Vegas,Nv,89120,6370 Annie Oakley Dr Las Vegas NV 89120,"[-115.08656, 36.07349]",-115.08656,36.07349
+212,Glimpse Medical - Jill Oliver M.D.,5990 S Rainbow Blvd,Las Vegas,Nv,89120,5990 S Rainbow Blvd Las Vegas NV 89118,"[-115.24227, 36.07997]",-115.24227,36.07997
+213,The Mirage Spa & Salon,3400 Las Vegas Blvd S The Mirage,Las Vegas,Nv,89109,3400 Las Vegas Blvd S The Mirage Las Vegas NV 89109,"[-115.17541, 36.12198]",-115.17541,36.12198
+214,Brian J. Parker M.D.,10080 Alta Dr Suite 120,Las Vegas,Nv,89109,10080 Alta Dr Suite 120 Las Vegas NV 89145,"[-115.314435, 36.16875]",-115.314435,36.16875
+215,BeautyGoalsLV,8961 W Sahara Ave STE 106,Las Vegas,Nv,89109,8961 W Sahara Ave STE 106 Las Vegas NV 89145,"[-115.29193, 36.14414]",-115.29193,36.14414
+216,Charnel Spa,8751 W Charleston Blvd Ste 120 AB4,Las Vegas,Nv,89106,8751 W Charleston Blvd Ste 120 AB4 Las Vegas NV 89106,"[-115.28365, 36.15885]",-115.28365,36.15885
+217,Moderna Laser & Med Spa,7036 S Durango Dr # 200,Las Vegas,Nv,89113,7036 S Durango Dr # 200 Las Vegas NV 89113,"[-115.27915, 36.0599]",-115.27915,36.0599
+218,Elysian Skin & Beauty,8440 W Lake Mead Blvd St 110,Las Vegas,Nv,89128,8440 W Lake Mead Blvd St 110 Las Vegas NV 89128,"[-115.27908, 36.20022]",-115.27908,36.20022
+219,The Brow Boutique,241 W Charleston Blvd #171,Las Vegas,Nv,89102,241 W Charleston Blvd #171 Las Vegas NV 89102,"[-115.157705, 36.158325]",-115.157705,36.158325
+220,Healing Waters,820 S Rancho Ln Ste 70,Las Vegas,Nv,89106,820 S Rancho Ln Ste 70 Las Vegas NV 89106,"[-115.17188, 36.16064]",-115.17188,36.16064
+221,Z Skin Care,7455 W Washington Ave Suite 400,Las Vegas,Nv,89128,7455 W Washington Ave Suite 400 Las Vegas NV 89128,"[-115.25562, 36.17917]",-115.25562,36.17917
+222,DERMA ELITE 101,9620 S Las Vegas Blvd Ste. E-3,Las Vegas,Nv,89148,9620 S Las Vegas Blvd Ste. E-3 Las Vegas NV 89148,"[-115.17154, 36.01476]",-115.17154,36.01476
+223,AJT Cosmetic,2870 S Jones Blvd,Las Vegas,Nv,89146,2870 S Jones Blvd Las Vegas NV 89146,"[-115.22465, 36.13705]",-115.22465,36.13705
+224,Spa Mandalay,3950 S Las Vegas Blvd,Las Vegas,Nv,89119,3950 S Las Vegas Blvd Las Vegas NV 89119,"[-115.1767, 36.09032]",-115.1767,36.09032
+225,CeR Aesthetics,8751 W Charleston Blvd Suite 130,Las Vegas,Nv,89117,8751 W Charleston Blvd Suite 130 Las Vegas NV 89117,"[-115.28584, 36.15805]",-115.28584,36.15805
+226,Rayos Permanent Makeup,1098 E Sahara Ave,Las Vegas,Nv,89104,1098 E Sahara Ave Las Vegas NV 89104,"[-115.13957, 36.14431]",-115.13957,36.14431
+227,Humble Bee Sugaring Studio (Lake Mead & Jones),6121 W Lake Mead Blvd,Las Vegas,Nv,89108,6121 W Lake Mead Blvd Las Vegas NV 89108,"[-115.22455, 36.19447]",-115.22455,36.19447
+228,Bella Sorella Body image,6600 W Charleston Blvd suite 110,Las Vegas,Nv,89146,6600 W Charleston Blvd suite 110 Las Vegas NV 89146,"[-115.24103, 36.15968]",-115.24103,36.15968
+229,Euro-Pacific LLC,4650 S Arville St Ste. A,Las Vegas,Nv,89103,4650 S Arville St Ste. A Las Vegas NV 89103,"[-115.19914, 36.10513]",-115.19914,36.10513
+230,Nuve Clinics,1610 E Lake Mead Blvd,North Las Vegas,Nv,89030,1610 E Lake Mead Blvd North Las Vegas NV 89030,"[-115.12243, 36.19623]",-115.12243,36.19623
+231,Cosmetic Surgery of Las Vegas: Dr. Samir Pancholi,6910 S Cimarron Rd Suite 150,Las Vegas,Nv,89113,6910 S Cimarron Rd Suite 150 Las Vegas NV 89113,"[-115.269535, 36.06258]",-115.269535,36.06258
+232,Total Image Salon,5860 W Craig Rd,Las Vegas,Nv,89130,5860 W Craig Rd Las Vegas NV 89130,"[-115.22428, 36.23938]",-115.22428,36.23938
+233,Custom Tan and Spa,7135 W Ann Rd,Las Vegas,Nv,89130,7135 W Ann Rd Las Vegas NV 89130,"[-115.2498, 36.26302]",-115.2498,36.26302
+234,Endless Glow,5785 Centennial Center Blvd #160,Las Vegas,Nv,89149,5785 Centennial Center Blvd #160 Las Vegas NV 89149,"[-115.25887, 36.26408]",-115.25887,36.26408
+235,Just A Gentle Touch Medical Cosmetic Center,2225 E Flamingo Rd #204,Las Vegas,Nv,89119,2225 E Flamingo Rd #204 Las Vegas NV 89119,"[-115.12245, 36.11407]",-115.12245,36.11407
+236,Sinfully Beautiful,4450 N Tenaya Way Suite: 245,Las Vegas,Nv,89117,4450 N Tenaya Way Suite: 245 Las Vegas NV 89117,"[-115.25023, 36.24162]",-115.25023,36.24162
+237,SkinStation Aesthetics Spa,8550 W Charleston Blvd Suite 108,Las Vegas,Nv,89117,8550 W Charleston Blvd Suite 108 Las Vegas NV 89117,"[-115.279, 36.16]",-115.279,36.16
+238,The Layer Lounge,1104 S 3rd St,Las Vegas,Nv,89104,1104 S 3rd St Las Vegas NV 89104,"[-115.15114, 36.15803]",-115.15114,36.15803
+239,Beauganix Medspa LV,6363 1180 North Town Center Drive Suite 100,Las Vegas,Nv,89144,6363 1180 North Town Center Drive Suite 100 Las Vegas NV 89144,"[-115.31053, 36.182085]",-115.31053,36.182085
+240,Eminent Aesthetics,430 S Rampart Blvd #150,Las Vegas,Nv,89144,430 S Rampart Blvd #150 Las Vegas NV 89145,"[-115.28726, 36.16757]",-115.28726,36.16757
+241,Hauto Beauty,4590 W Sahara Ave #102,Las Vegas,Nv,89102,4590 W Sahara Ave #102 Las Vegas NV 89102,"[-115.20417, 36.144955]",-115.20417,36.144955
+242,"Rejuvenate Me, LLC",2620 Regatta Dr Suite 144,Las Vegas,Nv,89128,2620 Regatta Dr Suite 144 Las Vegas NV 89128,"[-115.26881, 36.20743]",-115.26881,36.20743
+243,Belia Med Spa,5165 S Fort Apache Rd Suite 180,Las Vegas,Nv,89148,5165 S Fort Apache Rd Suite 180 Las Vegas NV 89148,"[-115.29721, 36.09486]",-115.29721,36.09486
+244,Qua Baths And Spa,3570 S Las Vegas Blvd,Las Vegas,Nv,89109,3570 S Las Vegas Blvd Las Vegas NV 89109,"[-115.1763, 36.11706]",-115.1763,36.11706
+245,Lapis & Oak Spa and Salt Lounge,615 S Green Valley Pkwy #120,Henderson,Nv,89052,615 S Green Valley Pkwy #120 Henderson NV 89052,"[-115.084715, 36.0052]",-115.084715,36.0052
+246,Jai Salon & MedSpa,911 N Buffalo Dr Ste 109,Las Vegas,Nv,89128,911 N Buffalo Dr Ste 109 Las Vegas NV 89128,"[-115.26137, 36.18192]",-115.26137,36.18192
+247,Perspectives Plastic Surgery - Dr. Rachel Mason,5864 S Durango Dr #105,Las Vegas,Nv,89113,5864 S Durango Dr #105 Las Vegas NV 89113,"[-115.27888, 36.0821]",-115.27888,36.0821
+248,Svetlanas Medspa,4270 S Decatur Blvd,Las Vegas,Nv,89103,4270 S Decatur Blvd Las Vegas NV 89103,"[-115.20711, 36.11229]",-115.20711,36.11229
+249,Nursie Cosmetics & Aesthetics Wellness Spa,8360 W Sahara Ave Suite 220,Las Vegas,Nv,89103,8360 W Sahara Ave Suite 220 Las Vegas NV 89145,"[-115.2741, 36.14408]",-115.2741,36.14408
+250,Halo Haus of Beauty,2701 N Tenaya Way Unit 110,Las Vegas,Nv,89128,2701 N Tenaya Way Unit 110 Las Vegas NV 89128,"[-115.2502, 36.209765]",-115.2502,36.209765
+251,Tri-Star Primary Care,8778 S Maryland Pkwy Ste 110,Las Vegas,Nv,89052,8778 S Maryland Pkwy Ste 110 Las Vegas NV 89052,"[-115.13606, 36.03019]",-115.13606,36.03019
+252,Kamay Medical Spa/salon,3399 S Eastern Ave,Las Vegas,Nv,89169,3399 S Eastern Ave Las Vegas Nv 89169,"[-115.119015, 36.12791]",-115.119015,36.12791
+253,TRUE at Wolfson Medical Center,6803 W Tropicana Ave,Las Vegas,Nv,89103,6803 W Tropicana Ave Las Vegas NV 89103,"[-115.24049, 36.09973]",-115.24049,36.09973
+254,Couture Medical,2615 Box Canyon Dr,Las Vegas,Nv,89128,2615 Box Canyon Dr Las Vegas NV 89128,"[-115.24858, 36.207]",-115.24858,36.207
+255,Creative Spa Designs,4145 S Grand Canyon Dr Ste 105,Las Vegas,Nv,89147,4145 S Grand Canyon Dr Ste 105 Las Vegas NV 89147,"[-115.307625, 36.11457]",-115.307625,36.11457
+256,Body Spa West,8751 W Charleston Blvd,Las Vegas,Nv,89117,8751 W Charleston Blvd Las Vegas NV 89117,"[-115.28584, 36.15805]",-115.28584,36.15805
+257,Lovely Beauty,2055 E Windmill Ln Ste 115,Las Vegas,Nv,89123,2055 E Windmill Ln Ste 115 Las Vegas NV 89123,"[-115.12275, 36.0418]",-115.12275,36.0418
+258,Lv Perfection Med Spa,1215 S Fort Apache Rd Ste 230,Las Vegas,Nv,89117,1215 S Fort Apache Rd Ste 230 Las Vegas NV 89117,"[-115.2926, 36.15704]",-115.2926,36.15704
+259,G Aveda Salon & Spa,1825 Festival Plaza Dr,Las Vegas,Nv,89135,1825 Festival Plaza Dr Las Vegas NV 89135,"[-115.3343, 36.15128]",-115.3343,36.15128
+260,Angie's Aesthetics,4570 S Eastern Ave Ste 25,Las Vegas,Nv,89119,4570 S Eastern Ave Ste 25 Las Vegas NV 89119,"[-115.11916, 36.10602]",-115.11916,36.10602
+261,Detox Salon LLC,8605 S Eastern Ave Ste B,Las Vegas,Nv,89123,8605 S Eastern Ave Ste B Las Vegas NV 89123,"[-115.11883, 36.03303]",-115.11883,36.03303
+262,Breathe,3377 Las Vegas Blvd S,Las Vegas,Nv,89109,3377 Las Vegas Blvd S Las Vegas NV 89109,"[-115.169265, 36.12221]",-115.169265,36.12221
+263,Brazilian Blowouts by Katie,9975 S Eastern Ave,Las Vegas,Nv,89183,9975 S Eastern Ave Las Vegas NV 89183,"[-115.11551, 36.00732]",-115.11551,36.00732
+264,See My Baby Ultrasound,2810 W Charleston Blvd Suite E45,Las Vegas,Nv,89102,2810 W Charleston Blvd Suite E45 Las Vegas NV 89102,"[-115.179537, 36.15992]",-115.179537,36.15992
+265,Lok Acupuncture Clinic,1818 E Desert Inn Rd,Las Vegas,Nv,89169,1818 E Desert Inn Rd Las Vegas NV 89169,"[-115.12667, 36.13022]",-115.12667,36.13022
+266,SKIN Las Vegas Med Spa,4270 South Decatur Blvd,Suite B11,Nv,89103,4270 South Decatur Blvd Suite B11 NV 89103,"[-115.20711, 36.11229]",-115.20711,36.11229
+267,LUX Dermatology,653 N Town Center Dr Ste 512,Las Vegas,Nv,89144,653 N Town Center Dr Ste 512 Las Vegas NV 89144,"[-115.31622, 36.18043]",-115.31622,36.18043
+268,The Lanfranchi Center for Facial Plastic Surgery & Rejuvenation,8985 S Eastern Ave Ste 120,Las Vegas,Nv,89123,8985 S Eastern Ave Ste 120 Las Vegas NV 89123,"[-115.12104, 36.02662]",-115.12104,36.02662
+269,Downtown Summerlin,W Sahara Ave 215,Las Vegas,Nv,89135,W Sahara Ave 215 Las Vegas NV 89135,"[-115.158992, 36.143784]",-115.158992,36.143784
+270,Belle Ange Salon & Spa,8630 S Eastern Ave,Las Vegas,Nv,89123,8630 S Eastern Ave Las Vegas Nv 89123,"[-115.11828, 36.03219]",-115.11828,36.03219
+271,Sculpt SPA,10140 W Tropicana Ave,Las Vegas,Nv,89147,10140 W Tropicana Ave Las Vegas NV 89147,"[-115.3137, 36.10028]",-115.3137,36.10028
+272,OB Skin Care,7581 W Lake Mead Blvd Ste 130,Las Vegas,Nv,89128,7581 W Lake Mead Blvd Ste 130 Las Vegas NV 89128,"[-115.25735, 36.19602]",-115.25735,36.19602
+273,Privy Skin Care,7455 W Azure Dr Ste 115,Las Vegas,Nv,89130,7455 W Azure Dr Ste 115 Las Vegas NV 89130,"[-115.258025, 36.27417]",-115.258025,36.27417
+274,Barsan Bright Skin Care,4960 S Fort Apache Rd Unit 460A,Las Vegas,Nv,89148,4960 S Fort Apache Rd Unit 460A Las Vegas NV 89148,"[-115.2972, 36.09851]",-115.2972,36.09851
+275,Revampstudio Organic Hair Spa/ Blowout Bar,7225 S Durango Dr Ste 100,Las Vegas,Nv,89113,7225 S Durango Dr Ste 100 Las Vegas NV 89113,"[-115.280125, 36.05674]",-115.280125,36.05674
+276,Las Vegas Plastic Surgery: Jeffrey J. Roth M.D. F.A.C.S.,6140 S Fort Apache Rd Ste 100,Las Vegas,Nv,89148,6140 S Fort Apache Rd Ste 100 Las Vegas NV 89148,"[-115.297, 36.07684]",-115.297,36.07684
+277,Cosmetique Aesthetics,7710 W Sahara Ave,Las Vegas,Nv,89117,7710 W Sahara Ave Las Vegas NV 89117,"[-115.25934, 36.14473]",-115.25934,36.14473
+278,"Dr. Michael S. Mall, MD",7455 W Washington Ave,Las Vegas,Nv,89128,7455 W Washington Ave Las Vegas NV 89128,"[-115.25562, 36.17917]",-115.25562,36.17917
+279,Gianna Christine Salon + Spa,2265 Village Walk Dr,Henderson,Nv,89052,2265 Village Walk Dr Henderson NV 89052,"[-115.087545, 36.020995]",-115.087545,36.020995
+280,GlowNV Aesthetics,6590 S Rainbow Blvd.,Las Vegas,Nv,89052,6590 S Rainbow Blvd. Las Vegas NV 89118,"[-115.241491, 36.068295]",-115.241491,36.068295
+281,My U Me Aesthetics,2110 E Flamingo Rd Unit 203,Las Vegas,Nv,89119,2110 E Flamingo Rd Unit 203 Las Vegas NV 89119,"[-115.12317, 36.115655]",-115.12317,36.115655
+282,L.A. Laser Hair Removal LV,621 S Tonopah Dr,Las Vegas,Nv,89106,621 S Tonopah Dr Las Vegas NV 89106,"[-115.16958, 36.163555]",-115.16958,36.163555
+283,Kyou Beauty Spa,4009 Spring Mountain Rd,Las Vegas,Nv,89102,4009 Spring Mountain Rd Las Vegas NV 89102,"[-115.19415, 36.12633]",-115.19415,36.12633
+284,Zerona Las Vegas,6804 W Cheyenne Ave,Las Vegas,Nv,89108,6804 W Cheyenne Ave Las Vegas NV 89108,"[-115.24456, 36.2183]",-115.24456,36.2183
+285,Body By,3753 Howard Hughes Pkwy,Las Vegas,Nv,89169,3753 Howard Hughes Pkwy Las Vegas NV 89169,"[-115.1579, 36.12044]",-115.1579,36.12044
+286,Therma-Slim,4815 W Russell Rd,Las Vegas,Nv,89169,4815 W Russell Rd Las Vegas NV 89118,"[-115.20655, 36.08582]",-115.20655,36.08582
+287,Carolina Skin Care,3779 E Desert Inn Rd,Las Vegas,Nv,89121,3779 E Desert Inn Rd Las Vegas NV 89121,"[-115.09283, 36.12969]",-115.09283,36.12969
+288,Moderation of the Mind Counseling Services,6869 W Charleston Blvd,Las Vegas,Nv,89117,6869 W Charleston Blvd Las Vegas NV 89117,"[-115.24468, 36.15896]",-115.24468,36.15896
+289,Salon Blush,1205 W Sunset Rd,Henderson,Nv,89014,1205 W Sunset Rd Henderson NV 89014,"[-115.03827, 36.063125]",-115.03827,36.063125
+290,Green Turtle Salon & Spa,1590 W Horizon Ridge Pkwy,Henderson,Nv,89012,1590 W Horizon Ridge Pkwy Henderson NV 89012,"[-115.056304, 36.01692]",-115.056304,36.01692
+291,LGND LV,8940 S Maryland Pkwy,Las Vegas,Nv,89123,8940 S Maryland Pkwy Las Vegas NV 89123,"[-115.13532, 36.02719]",-115.13532,36.02719
+292,D hair To be Different,4300 E Sunset Rd,Henderson,Nv,89014,4300 E Sunset Rd Henderson NV 89014,"[-115.080131, 36.07232]",-115.080131,36.07232
+293,Skin Care By Andra,7131 W Craig Rd,Las Vegas,Nv,89129,7131 W Craig Rd Las Vegas NV 89129,"[-115.2505, 36.24033]",-115.2505,36.24033
+294,Med Spa Las Vegas,222 Karen Ave Suite 602,Las Vegas,Nv,89109,222 Karen Ave Suite 602 Las Vegas NV 89109,"[-115.15377, 36.14096]",-115.15377,36.14096
+295,NkdSkin Laser Lounge at Eastern Ave,3211 S Eastern Ave,Las Vegas,Nv,89169,3211 S Eastern Ave Las Vegas NV 89169,"[-115.1189, 36.13134]",-115.1189,36.13134
+296,Las Vegas Laser Services,3100 S Durango Dr,Las Vegas,Nv,89117,3100 S Durango Dr Las Vegas NV 89117,"[-115.27851, 36.13346]",-115.27851,36.13346
+297,Niloah Beauty,6671 S Las Vegas Blvd Building D Ste 210,Las Vegas,Nv,89119,6671 S Las Vegas Blvd Building D Ste 210 Las Vegas NV 89119,"[-115.17249, 36.06756]",-115.17249,36.06756
+298,Complete Women´s Care,1820 E Lake Mead Blvd,North Las Vegas,Nv,89030,1820 E Lake Mead Blvd North Las Vegas NV 89030,"[-115.12132, 36.19668]",-115.12132,36.19668
+299,Silk Skin Laser Spa,5463 S Rainbow Blvd Suite B1,Las Vegas,Nv,89030,5463 S Rainbow Blvd Suite B1 Las Vegas NV 89118,"[-115.24296, 36.08977]",-115.24296,36.08977
+300,TRUE at Wolfson Medical Center,6803 W Tropicana Ave,Las Vegas,Nv,89103,6803 W Tropicana Ave Las Vegas NV 89103,"[-115.24049, 36.09973]",-115.24049,36.09973
+301,eBodySculpt by Madame et Monsieur,8751 W Charleston Blvd Suite 160,Las Vegas,Nv,89117,8751 W Charleston Blvd Suite 160 Las Vegas NV 89117,"[-115.28584, 36.15805]",-115.28584,36.15805
+302,The Skin & Laser Institute,7905 W Sahara Ave #107,Las Vegas,Nv,89117,7905 W Sahara Ave #107 Las Vegas NV 89117,"[-115.26331, 36.14362]",-115.26331,36.14362
+303,Vegas 3d Eyebrows,9272 Tamarus St Suite 100,Las Vegas,Nv,89123,9272 Tamarus St Suite 100 Las Vegas NV 89123,"[-115.13167, 36.02111]",-115.13167,36.02111
+304,Vegas Lash & Skin,8053 N Durango Dr Suite #110,Las Vegas,Nv,89131,8053 N Durango Dr Suite #110 Las Vegas NV 89131,"[-115.27929, 36.30796]",-115.27929,36.30796
+305,Stephanie Hill Skin Care,3700 S Hualapai Way #100,Las Vegas,Nv,89147,3700 S Hualapai Way #100 Las Vegas NV 89147,"[-115.31445, 36.121945]",-115.31445,36.121945
+306,Medicis Medical Spa,750 N Eastern Ave Suite 100B,Las Vegas,Nv,89101,750 N Eastern Ave Suite 100B Las Vegas NV 89101,"[-115.11602, 36.17718]",-115.11602,36.17718
+307,Club De Nutricion Puravida,1412 E Charleston Blvd,Las Vegas,Nv,89104,1412 E Charleston Blvd Las Vegas NV 89104,"[-115.13443, 36.1588]",-115.13443,36.1588
+308,Green Valley Ranch Spa By Well & Being,2300 Paseo Verde Pkwy,Henderson,Nv,89052,2300 Paseo Verde Pkwy Henderson NV 89052,"[-115.09099, 36.02117]",-115.09099,36.02117
+309,Pure Medspa and Wellness,8930 W Tropicana Ave Suite 8,Las Vegas,Nv,89147,8930 W Tropicana Ave Suite 8 Las Vegas NV 89147,"[-115.28636, 36.10152]",-115.28636,36.10152
+310,Beautè de Luxe Spa,900 Karen Ave Suite C-109,Las Vegas,Nv,89108,900 Karen Ave Suite C-109 Las Vegas NV 89108,"[-115.14301, 36.1409]",-115.14301,36.1409
+311,VIP Plastic Surgery,2779 Sunridge Heights Pkwy Suite 100,Henderson,Nv,89052,2779 Sunridge Heights Pkwy Suite 100 Henderson NV 89052,"[-115.109041, 35.991095]",-115.109041,35.991095
+312,The Aesthetics Lab,2701 N Tenaya Way Suite 110,Las Vegas,Nv,89128,2701 N Tenaya Way Suite 110 Las Vegas NV 89128,"[-115.2502, 36.209765]",-115.2502,36.209765
+313,Harmony Eden Laser Aesthetics & Spa,2310 Paseo Del Prado Suite A109,Las Vegas,Nv,89102,2310 Paseo Del Prado Suite A109 Las Vegas NV 89102,"[-115.17816, 36.14639]",-115.17816,36.14639
+314,The Beauty Techs LV,"Parking lot, 6820 W Sahara Ave suite 1",Las Vegas,Nv,89146,"Parking lot, 6820 W Sahara Ave suite 1 Las Vegas NV 89146","[-115.283763, 36.140322]",-115.283763,36.140322
+315,La Vita Laser & Aesthetics,3225 S Rainbow Blvd STE 206,Las Vegas,Nv,89146,3225 S Rainbow Blvd STE 206 Las Vegas NV 89146,"[-115.24345, 36.13044]",-115.24345,36.13044
+316,PolinA - The Art of Your Skin,7885 W Sahara Ave Ste 108,Las Vegas,Nv,89147,7885 W Sahara Ave Ste 108 Las Vegas NV 89147,"[-115.26283, 36.14363]",-115.26283,36.14363
+317,Reset IV,9501 Hillwood Dr,Las Vegas,Nv,89102,9501 Hillwood Dr Las Vegas NV 89102,"[-115.30309, 36.18697]",-115.30309,36.18697
+318,Elite Med Spa,8660 Spring Mountain Rd,Las Vegas,Nv,89117,8660 Spring Mountain Rd Las Vegas NV 89117,"[-115.28038, 36.12658]",-115.28038,36.12658
+319,Axiom Wellness & Medical Spa Las,2510 Wigwam Pkwy Ste 105,Henderson,Nv,89074,2510 Wigwam Pkwy Ste 105 Henderson NV 89074,"[-115.097549, 36.03492]",-115.097549,36.03492
+320,Just Face It,8645 W Sahara Ave,Las Vegas,Nv,89117,8645 W Sahara Ave Las Vegas NV 89117,"[-115.28106, 36.14402]",-115.28106,36.14402
+321,Allure Cosmetic Laser Center Llc,2575 S Cimarron Rd Ste 200,Las Vegas,Nv,89117,2575 S Cimarron Rd Ste 200 Las Vegas NV 89117,"[-115.27059, 36.14274]",-115.27059,36.14274
+322,Shannon's Serendipity Skincare,8225 W Sahara Ave Ste C,Las Vegas,Nv,89117,8225 W Sahara Ave Ste C Las Vegas NV 89117,"[-115.27032, 36.14327]",-115.27032,36.14327
+323,The Aesthetics Lab,2701 N Tenaya Way,Las Vegas,Nv,89128,2701 N Tenaya Way Las Vegas NV 89128,"[-115.2502, 36.209765]",-115.2502,36.209765
+324,The Nail Industry Natural Nail Lounge,1620 S Decatur Blvd,Las Vegas,Nv,89102,1620 S Decatur Blvd Las Vegas NV 89102,"[-115.2086, 36.15223]",-115.2086,36.15223
+325,Quiamzon Aesthetic and Concierge Healthcare,9864 W Russell Rd,Las Vegas,Nv,89148,9864 W Russell Rd Las Vegas NV 89148,"[-115.29133, 36.0819]",-115.29133,36.0819
+326,American Medical Wellness,241 N Buffalo Dr Ste 200B,Las Vegas,Nv,89146,241 N Buffalo Dr Ste 200B Las Vegas NV 89146,"[-115.26029, 36.17564]",-115.26029,36.17564
+327,Massage Heights Adobe Plaza,1371 W Warm Springs Rd B,Henderson,Nv,89014,1371 W Warm Springs Rd B Henderson NV 89014,"[-115.044995, 36.055615]",-115.044995,36.055615
+328,Canyon Trails Rejuvenation,2035 Village Center Cir,Las Vegas,Nv,89134,2035 Village Center Cir Las Vegas NV 89134,"[-115.30365, 36.191205]",-115.30365,36.191205
+329,Sculpt Medical Spa & Salon,1371 W Warm Springs Rd,Henderson,Nv,89014,1371 W Warm Springs Rd Henderson Nv 89014,"[-115.044995, 36.055615]",-115.044995,36.055615
+330,Kamay Medical Spa/Salon,3399 S Eastern Ave,Las Vegas,Nv,89169,3399 S Eastern Ave Las Vegas NV 89169,"[-115.119015, 36.12791]",-115.119015,36.12791
+331,Las Vegas Intensive Skincare and Aesthetics (LISA),1621 E Flamingo Rd Ste 17B,Las Vegas,Nv,89119,1621 E Flamingo Rd Ste 17B Las Vegas NV 89119,"[-115.13029, 36.11445]",-115.13029,36.11445
+332,Premier Aesthetics,7965 W Sahara Ave,Las Vegas,Nv,89146,7965 W Sahara Ave Las Vegas NV 89146,"[-115.26421, 36.14367]",-115.26421,36.14367
+333,Supreme Elevation Medical Center,2110 E Flamingo Rd Suite #180,Las Vegas,Nv,89119,2110 E Flamingo Rd Suite #180 Las Vegas NV 89119,"[-115.12317, 36.115655]",-115.12317,36.115655
+334,Miralce Image OB/GYN,3040 W Charleston Blvd,Las Vegas,Nv,89102,3040 W Charleston Blvd Las Vegas Nv 89102,"[-115.18312, 36.15946]",-115.18312,36.15946
+335,LV Royal Foot Spa,5150 Spring Mountain Rd,Las Vegas,Nv,89146,5150 Spring Mountain Rd Las Vegas NV 89146,"[-115.211959, 36.126365]",-115.211959,36.126365
+336,Galaxy Salon,1136 S Decatur Blvd,Las Vegas,Nv,89102,1136 S Decatur Blvd Las Vegas NV 89102,"[-115.20734, 36.15831]",-115.20734,36.15831
+337,Luxury Recovery Vegas Edition,274 Caddy Bag Ct,Las Vegas,Nv,89148,274 Caddy Bag Ct Las Vegas NV 89148,"[-115.29546, 36.04563]",-115.29546,36.04563
+338,Desert Inn Medical Center,1900 E Desert Inn Rd,Las Vegas,Nv,89169,1900 E Desert Inn Rd Las Vegas NV 89169,"[-115.1256, 36.13021]",-115.1256,36.13021
+339,Shimmer Nails and Hair,4970 Arville St,Las Vegas,Nv,89169,4970 Arville St Las Vegas NV 89118,"[-115.19856, 36.09957]",-115.19856,36.09957
+340,"Aesthetic Envy and Wellness: Kim Nguyen, PA-C",341 N Buffalo Dr Suite C-1,Las Vegas,Nv,89169,341 N Buffalo Dr Suite C-1 Las Vegas NV 89145,"[-115.26086, 36.17666]",-115.26086,36.17666
+341,Jurani Clinic,633 N Decatur Blvd Ste A,Las Vegas,Nv,89107,633 N Decatur Blvd Ste A Las Vegas NV 89107,"[-115.20651, 36.17954]",-115.20651,36.17954
+342,Organelle Salon & Spa,4266 S Durango Dr,Las Vegas,Nv,89147,4266 S Durango Dr Las Vegas NV 89147,"[-115.27823, 36.11235]",-115.27823,36.11235
+343,Lets Face It Skin Care & Waxing,4300 E Sunset Rd Ste C-8,Las Vegas,Nv,89014,4300 E Sunset Rd Ste C-8 Las Vegas NV 89014,"[-115.080131, 36.07232]",-115.080131,36.07232
+344,New Image Advanced Laser Skin Center,7455 W Washington Ave Suite 400,Las Vegas,Nv,89128,7455 W Washington Ave Suite 400 Las Vegas NV 89128,"[-115.25562, 36.17917]",-115.25562,36.17917
+345,Massage Nirvana Day and Medi Spa,4555 S Fort Apache Rd #142,Las Vegas,Nv,89147,4555 S Fort Apache Rd #142 Las Vegas NV 89147,"[-115.29782, 36.10669]",-115.29782,36.10669
+346,Medical Massage In Las Vegas,9330 Sun City Blvd,Las Vegas,Nv,89134,9330 Sun City Blvd Las Vegas NV 89134,"[-115.29873, 36.211705]",-115.29873,36.211705
+347,Francescas Facelift,11201 S Eastern Ave #115,Henderson,Nv,89052,11201 S Eastern Ave #115 Henderson NV 89052,"[-115.10166, 35.98859]",-115.10166,35.98859
+348,Las Vegas Skin And Cancer Institute - Centennial,5550 Painted Mirage Rd Suite #200,Las Vegas,Nv,89149,5550 Painted Mirage Rd Suite #200 Las Vegas NV 89149,"[-115.25499, 36.26188]",-115.25499,36.26188
+349,A Beauty By Design Permanent Makeup Paramedical Tattoo Clinic,10120 S Eastern Ave Ste 345 3rd floor,Henderson,Nv,89052,10120 S Eastern Ave Ste 345 3rd floor Henderson NV 89052,"[-115.11101, 36.006235]",-115.11101,36.006235
+350,"Divina Gracia Averilla, MD",8595 S Decatur Blvd Suite 108,Las Vegas,Nv,89117,8595 S Decatur Blvd Suite 108 Las Vegas NV 89117,"[-115.20927, 36.03264]",-115.20927,36.03264
+351,Las Vegas Pain Institute,1900 N Nellis Blvd,Las Vegas,Nv,89115,1900 N Nellis Blvd Las Vegas NV 89115,"[-115.06196, 36.1949]",-115.06196,36.1949
+352,BELLALUXE Med Spa,1081 S Cimarron Rd B5,Las Vegas,Nv,89115,1081 S Cimarron Rd B5 Las Vegas NV 89145,"[-115.27133, 36.16054]",-115.27133,36.16054
+353,NutriDrip by Clean Market,3131 S Las Vegas Blvd,Las Vegas,Nv,89109,3131 S Las Vegas Blvd Las Vegas NV 89109,"[-115.16184, 36.12929]",-115.16184,36.12929
+354,Spark Infusions,1661 E Flamingo Rd Suite 8a,Las Vegas,Nv,89119,1661 E Flamingo Rd Suite 8a Las Vegas NV 89119,"[-115.1298, 36.11446]",-115.1298,36.11446
+355,Spa by Dored G,4825 W Flamingo Rd,Las Vegas,Nv,89103,4825 W Flamingo Rd Las Vegas NV 89103,"[-115.20687, 36.11483]",-115.20687,36.11483
+356,Pearl Medspa,9550 S Eastern Ave 237,Las Vegas,Nv,89123,9550 S Eastern Ave 237 Las Vegas NV 89123,"[-115.11862, 36.01553]",-115.11862,36.01553
+357,European Massage Therapy School,9440 W Sahara Ave Ste 250,Las Vegas,Nv,89117,9440 W Sahara Ave Ste 250 Las Vegas NV 89117,"[-115.30072, 36.14559]",-115.30072,36.14559
+358,Nuance Aesthetics & Plastic Surgery,3605 S Town Center Dr Ste C,Las Vegas,Nv,89135,3605 S Town Center Dr Ste C Las Vegas NV 89135,"[-115.3259, 36.124625]",-115.3259,36.124625
+359,Linda Woodson Dermatology,2800 N Tenaya Way,Las Vegas,Nv,89128,2800 N Tenaya Way Las Vegas NV 89128,"[-115.2488, 36.21116]",-115.2488,36.21116
+360,Sunrise Hospital and Medical Center,3186 S Maryland Pkwy,Las Vegas,Nv,89109,3186 S Maryland Pkwy Las Vegas NV 89109,"[-115.13676, 36.13438]",-115.13676,36.13438
+361,The Foot Spa At Sola,8975 W Charleston Blvd Ste 130,Las Vegas,Nv,89117,8975 W Charleston Blvd Ste 130 Las Vegas NV 89117,"[-115.29031, 36.15882]",-115.29031,36.15882
+362,Kozmary Center for Pain Management,2851 El Camino Ave Ste 101,Las Vegas,Nv,89102,2851 El Camino Ave Ste 101 Las Vegas NV 89102,"[-115.1806, 36.14604]",-115.1806,36.14604
+363,Thomas Dermatology,9097 W Post Road,100,Nv,89148,9097 W Post Road 100 NV 89148,"[-115.29057, 36.07373]",-115.29057,36.07373
+364,Revage Medical Spa,4180 S Grand Canyon Dr,Las Vegas,Nv,89147,4180 S Grand Canyon Dr Las Vegas NV 89147,"[-115.30597, 36.11339]",-115.30597,36.11339
+365,Body Restoration Massage,2600 W Harmon Ave,Las Vegas,Nv,89109,2600 W Harmon Ave Las Vegas NV 89109,"[-115.17812, 36.10878]",-115.17812,36.10878
+366,UMC Quick Care - Centennial Hills,5785 Centennial Center Blvd,Las Vegas,Nv,89149,5785 Centennial Center Blvd Las Vegas NV 89149,"[-115.25887, 36.26408]",-115.25887,36.26408
+367,Graceful Facials and Bodywork,6877 W Charleston Blvd,Las Vegas,Nv,89117,6877 W Charleston Blvd Las Vegas NV 89117,"[-115.24466, 36.15896]",-115.24466,36.15896
+368,Therapie,6819 W Tropicana Ave,Las Vegas,Nv,89103,6819 W Tropicana Ave Las Vegas NV 89103,"[-115.24068, 36.09863]",-115.24068,36.09863
+369,"Vicki Hom, MD FAAP | Oshiro Pediatrics",4570 S Eastern Ave,Las Vegas,Nv,89119,4570 S Eastern Ave Las Vegas NV 89119,"[-115.11916, 36.10602]",-115.11916,36.10602
+370,Southwest Medical at Civic Center,2225 Civic Center Dr,North Las Vegas,Nv,89030,2225 Civic Center Dr North Las Vegas NV 89030,"[-115.11939, 36.1995]",-115.11939,36.1995
+371,Push IV & Wellness,4315 Dean Martin Dr,Las Vegas,Nv,89103,4315 Dean Martin Dr Las Vegas NV 89103,"[-115.18139, 36.1113]",-115.18139,36.1113
+372,Platinum Massage and Facials,2510 E Sunset Rd STE 5,Las Vegas,Nv,89121,2510 E Sunset Rd STE 5 Las Vegas NV 89121,"[-115.11623, 36.07165]",-115.11623,36.07165
+373,Saffron Day Spa,2400 S Jones Blvd #14,Las Vegas,Nv,89146,2400 S Jones Blvd #14 Las Vegas NV 89146,"[-115.22522, 36.14514]",-115.22522,36.14514
+374,The Spa at Lakeside 2.0,2620 Regatta Dr #112,Las Vegas,Nv,89128,2620 Regatta Dr #112 Las Vegas NV 89128,"[-115.26881, 36.20743]",-115.26881,36.20743
+375,Apex Medical Center,1701 Wellness Wy #200,Las Vegas,Nv,89106,1701 Wellness Wy #200 Las Vegas NV 89106,"[-115.16403, 36.16153]",-115.16403,36.16153
+376,CCUE FOOTSPA,4230 S Decatur Blvd #100,Las Vegas,Nv,89103,4230 S Decatur Blvd #100 Las Vegas NV 89103,"[-115.20749, 36.113195]",-115.20749,36.113195
+377,"Martin Safko, MD - Southwest Dermatology Center",3150 N Tenaya Way,Las Vegas,Nv,89128,3150 N Tenaya Way Las Vegas NV 89128,"[-115.24943, 36.21667]",-115.24943,36.21667
+378,RAREV,3900 W Charleston Blvd Ste 150,Las Vegas,Nv,89102,3900 W Charleston Blvd Ste 150 Las Vegas NV 89102,"[-115.19247, 36.15915]",-115.19247,36.15915
+379,Integrative Therapies of Las Vegas & Med Spa LLC,2110 E Flamingo Rd Suite. 333,Las Vegas,Nv,89119,2110 E Flamingo Rd Suite. 333 Las Vegas NV 89119,"[-115.12317, 36.115655]",-115.12317,36.115655
+380,Myst Beauty Bar & Med Spa,9640 W Tropicana Ave STE 116,Las Vegas,Nv,89147,9640 W Tropicana Ave STE 116 Las Vegas NV 89147,"[-115.30241, 36.10108]",-115.30241,36.10108
+381,Just Face It MedSpa,8440 W Lake Mead Blvd,Las Vegas,Nv,89128,8440 W Lake Mead Blvd Las Vegas NV 89128,"[-115.27908, 36.20022]",-115.27908,36.20022
+382,Renew Medical Spa,6980 Smoke Ranch Rd #150,Las Vegas,Nv,89128,6980 Smoke Ranch Rd #150 Las Vegas NV 89128,"[-115.246195, 36.205125]",-115.246195,36.205125
+383,Cooltique Spa - CoolSculpting Clinic,7170 Smoke Ranch Rd #150,Las Vegas,Nv,89128,7170 Smoke Ranch Rd #150 Las Vegas NV 89128,"[-115.24848, 36.20413]",-115.24848,36.20413
+384,Younger Reflections,1928 Rock Springs Dr,Las Vegas,Nv,89128,1928 Rock Springs Dr Las Vegas NV 89128,"[-115.24692, 36.19496]",-115.24692,36.19496
+385,NV Image Laser Suite,10300 W Charleston Blvd #17,Las Vegas,Nv,89135,10300 W Charleston Blvd #17 Las Vegas NV 89135,"[-115.32095, 36.16055]",-115.32095,36.16055
+386,Flawless Face and Figure,9418 W Lake Mead Blvd,Las Vegas,Nv,89117,9418 W Lake Mead Blvd Las Vegas NV 89117,"[-115.30182, 36.207425]",-115.30182,36.207425
+387,Hangover Rescue,7020 Smoke Ranch Rd #110,Las Vegas,Nv,89128,7020 Smoke Ranch Rd #110 Las Vegas NV 89128,"[-115.24656, 36.204135]",-115.24656,36.204135
+388,Aesthetic Haus,3960 Howard Hughes Pkwy Suite 500,Las Vegas,Nv,89169,3960 Howard Hughes Pkwy Suite 500 Las Vegas NV 89169,"[-115.1571, 36.1167]",-115.1571,36.1167
+389,Espri Laser Med Spa,8961 W Sahara Ave STE 106,Las Vegas,Nv,89117,8961 W Sahara Ave STE 106 Las Vegas NV 89117,"[-115.2922, 36.14305]",-115.2922,36.14305
+390,Unicorn Medical Weight Loss & Medi Spa,6332 S Rainbow Blvd #110,Las Vegas,Nv,89117,6332 S Rainbow Blvd #110 Las Vegas NV 89118,"[-115.24215, 36.07366]",-115.24215,36.07366
+391,Imagen Medi Spa & Beauty Salon,2605 S Decatur Blvd Suite 218,Las Vegas,Nv,89104,2605 S Decatur Blvd Suite 218 Las Vegas NV 89104,"[-115.20925, 36.14313]",-115.20925,36.14313
+392,Skin Goddess,5115 S Durango Dr #101,Las Vegas,Nv,89113,5115 S Durango Dr #101 Las Vegas NV 89113,"[-115.28001, 36.095965]",-115.28001,36.095965
+393,Pearl Medspa,9550 S Eastern Ave Suite 237,Las Vegas,Nv,89123,9550 S Eastern Ave Suite 237 Las Vegas NV 89123,"[-115.11862, 36.01553]",-115.11862,36.01553
+394,Miraculous Massage & Facial Spa,5803 W Craig Rd Ste 101,Las Vegas,Nv,89130,5803 W Craig Rd Ste 101 Las Vegas NV 89130,"[-115.224065, 36.237885]",-115.224065,36.237885
+395,Klarity Restore,5145 S Durango Dr STE 103,Las Vegas,Nv,89113,5145 S Durango Dr STE 103 Las Vegas NV 89113,"[-115.280065, 36.095575]",-115.280065,36.095575
+396,A,4270 Blue Diamond Rd Rm 115,Las Vegas,Nv,89139,4270 Blue Diamond Rd Rm 115 Las Vegas NV 89139,"[-115.19669, 36.0378]",-115.19669,36.0378
+397,FacePop Brow & Lash Bar,618 S Las Vegas Blvd,Las Vegas,Nv,89101,618 S Las Vegas Blvd Las Vegas NV 89101,"[-115.14529, 36.162815]",-115.14529,36.162815
+398,Envogue Salon & Spa,4010 S Fort Apache Rd,Las Vegas,Nv,89147,4010 S Fort Apache Rd Las Vegas NV 89147,"[-115.2969, 36.11702]",-115.2969,36.11702
+399,Plastic Surgery Las Vegas: Dr. Mustafa Ahmed,3365 E Flamingo Rd Ste 10,Las Vegas,Nv,89121,3365 E Flamingo Rd Ste 10 Las Vegas NV 89121,"[-115.10177, 36.11485]",-115.10177,36.11485
+400,Ageless Day Spa,5710 Simmons St Suite 17A,North Las Vegas,Nv,89031,5710 Simmons St Suite 17A North Las Vegas NV 89031,"[-115.1793, 36.26372]",-115.1793,36.26372
+401,Secret Body Las Vegas Coolsculpting Clinic,2850 Bicentennial Pkwy Suite 5-120,Henderson,Nv,89044,2850 Bicentennial Pkwy Suite 5-120 Henderson NV 89044,"[-115.115957, 35.94305]",-115.115957,35.94305
+402,Quick Weight Loss and Skin Care,8751 W Charleston Blvd,Las Vegas,Nv,89134,8751 W Charleston Blvd Las Vegas NV 89134,"[-115.28584, 36.15805]",-115.28584,36.15805
+403,Glossy Nails,860 S Rancho Dr Ste #7,Las Vegas,Nv,89106,860 S Rancho Dr Ste #7 Las Vegas NV 89106,"[-115.17283, 36.16108]",-115.17283,36.16108
+404,Maya Medical Spa,2660 S Rainbow Blvd Suite F-109,Las Vegas,Nv,89146,2660 S Rainbow Blvd Suite F-109 Las Vegas NV 89146,"[-115.24226, 36.14108]",-115.24226,36.14108
+405,Dubin Wellness Center,"Just, West off Rainbow Blvd",Las Vegas,Nv,89146,"Just, West off Rainbow Blvd Las Vegas NV 89118","[-115.227985, 36.093557]",-115.227985,36.093557
+406,Star Body,430 S Rampart Blvd #150,Las Vegas,Nv,89146,430 S Rampart Blvd #150 Las Vegas NV 89145,"[-115.28726, 36.16757]",-115.28726,36.16757
+407,"Skin Fitness, by Jamie Lee Metz",8751 W Charleston Blvd Ste 150,Las Vegas,Nv,89117,8751 W Charleston Blvd Ste 150 Las Vegas NV 89117,"[-115.28584, 36.15805]",-115.28584,36.15805
+408,Sola Medical Spa,Village Walk Dr,Henderson,Nv,89012,Village Walk Dr Henderson NV 89012,"[-115.07826, 36.02342]",-115.07826,36.02342
+409,Excellyon,7470 Dean Martin Dr #101,Las Vegas,Nv,89139,7470 Dean Martin Dr #101 Las Vegas NV 89139,"[-115.18347, 36.05398]",-115.18347,36.05398
+410,The Salt Room Las Vegas,1958 Village Center Cir #7,Las Vegas,Nv,89134,1958 Village Center Cir #7 Las Vegas NV 89134,"[-115.30445, 36.19236]",-115.30445,36.19236
+411,Facial Expressions MedSpa and Wellness Center,1485 W Warm Springs Rd Ste 109-B,Henderson,Nv,89014,1485 W Warm Springs Rd Ste 109-B Henderson NV 89014,"[-115.050021, 36.0555]",-115.050021,36.0555
+412,Feetish Spa Parlor,900 E Karen Ave Suite C-109,Las Vegas,Nv,89109,900 E Karen Ave Suite C-109 Las Vegas NV 89109,"[-115.14244, 36.14091]",-115.14244,36.14091
+413,Exhaal Wellness Spa,4280 Blue Diamond Rd #101-B,Las Vegas,Nv,89139,4280 Blue Diamond Rd #101-B Las Vegas NV 89139,"[-115.19785, 36.03716]",-115.19785,36.03716
+414,Berthas Las Vegas Spa,600 S Green Valley Pkwy Studio 36,Henderson,Nv,89052,600 S Green Valley Pkwy Studio 36 Henderson NV 89052,"[-115.08027, 36.00535]",-115.08027,36.00535
+415,The Look Med Spa,7530 W Sahara Ave Suite 107,Las Vegas,Nv,89117,7530 W Sahara Ave Suite 107 Las Vegas NV 89117,"[-115.25578, 36.14491]",-115.25578,36.14491
+416,"Sweet Bliss Skincare, Las Vegas NV",2330 Paseo Del Prado C-306,Las Vegas,Nv,89102,2330 Paseo Del Prado C-306 Las Vegas NV 89102,"[-115.17909, 36.14673]",-115.17909,36.14673
+417,Aria Medical Aesthetic Center 爱丽雅医学美容中心,2121 E Flamingo Rd Suite 216,Las Vegas,Nv,89119,2121 E Flamingo Rd Suite 216 Las Vegas NV 89119,"[-115.12328, 36.11373]",-115.12328,36.11373
+418,Elite Image One Boca Summerlin/AngelPark,8751 W Charleston Blvd # 130,Las Vegas,Nv,89117,8751 W Charleston Blvd # 130 Las Vegas NV 89117,"[-115.28584, 36.15805]",-115.28584,36.15805
+419,Exotica Skin Care,2480 W Horizon Ridge Pkwy Suite #130,Henderson,Nv,89052,2480 W Horizon Ridge Pkwy Suite #130 Henderson NV 89052,"[-115.093725, 36.006233]",-115.093725,36.006233
+420,Las Vegas Sculpt,2380 N Buffalo Dr Suite 150,Las Vegas,Nv,89117,2380 N Buffalo Dr Suite 150 Las Vegas NV 89117,"[-115.259955, 36.20302]",-115.259955,36.20302
+421,OPUS by Dermaster,6850 W Spring Mountain Rd #102,Las Vegas,Nv,89113,6850 W Spring Mountain Rd #102 Las Vegas NV 89113,"[-115.241565, 36.126805]",-115.241565,36.126805
+422,the NICE clinic LV,6787 W Tropicana Ave Suite 105,Las Vegas,Nv,89113,6787 W Tropicana Ave Suite 105 Las Vegas NV 89113,"[-115.24005, 36.09973]",-115.24005,36.09973
+423,Absolute Primary Care,3413 S Eastern Ave,Las Vegas,Nv,89169,3413 S Eastern Ave Las Vegas NV 89169,"[-115.11903, 36.12764]",-115.11903,36.12764
+424,vanityskintightening.com,8751 W Charleston Blvd suite 120,Las Vegas,Nv,89146,8751 W Charleston Blvd suite 120 Las Vegas NV 89146,"[-115.28365, 36.15885]",-115.28365,36.15885
+425,Neko Massage Studio,124 S 6th St #170,Las Vegas,Nv,89101,124 S 6th St #170 Las Vegas NV 89101,"[-115.14049, 36.16795]",-115.14049,36.16795
+426,Glenna Med Spa Skincare and Aesthetics,6590 S Rainbow Blvd Ste 150,Las Vegas,Nv,89101,6590 S Rainbow Blvd Ste 150 Las Vegas NV 89118,"[-115.241491, 36.068295]",-115.241491,36.068295
+427,Medical Spa Funding,7848 W Sahara Ave Suite 100,Las Vegas,Nv,89117,7848 W Sahara Ave Suite 100 Las Vegas NV 89117,"[-115.26251, 36.14505]",-115.26251,36.14505
+428,Avilla Beauty,800 N Rainbow Blvd,Las Vegas,Nv,89106,800 N Rainbow Blvd Las Vegas NV 89106,"[-115.24166, 36.180445]",-115.24166,36.180445
+429,Lizii Skincare Studio,6671 S Las Vegas Blvd Suite 210,Las Vegas,Nv,89119,6671 S Las Vegas Blvd Suite 210 Las Vegas NV 89119,"[-115.17249, 36.06756]",-115.17249,36.06756
+430,PattyMac Beauty & Wellness,Out Calls Only,Las Vegas,Nv,89102,Out Calls Only Las Vegas NV 89102,"[-115.206383, 36.149456]",-115.206383,36.149456
+431,Vegas Valley Chiropractic,3230 E Charleston Blvd # 109,Las Vegas,Nv,89104,3230 E Charleston Blvd # 109 Las Vegas NV 89104,"[-115.10166, 36.15967]",-115.10166,36.15967
+432,Namaste Mobile Massage,2202 W Charleston Blvd Ste 10,Las Vegas,Nv,89102,2202 W Charleston Blvd Ste 10 Las Vegas NV 89102,"[-115.17203, 36.15962]",-115.17203,36.15962
+433,Serru Medical Center,4418 W Charleston Blvd,Las Vegas,Nv,89102,4418 W Charleston Blvd Las Vegas NV 89102,"[-115.20099, 36.15932]",-115.20099,36.15932
+434,Rejuvenate Skin Care,3773 Howard Hughes Pkwy #500s,Las Vegas,Nv,89169,3773 Howard Hughes Pkwy #500s Las Vegas NV 89169,"[-115.15855, 36.11964]",-115.15855,36.11964
+435,Body Contouring of Las Vegas,6787 W Tropicana Ave Suite 252,Las Vegas,Nv,89103,6787 W Tropicana Ave Suite 252 Las Vegas NV 89103,"[-115.23989, 36.09849]",-115.23989,36.09849
+436,Oasis to Zen Transformation Spa,5715 W Alexander Rd Suite 140,Las Vegas,Nv,89130,5715 W Alexander Rd Suite 140 Las Vegas NV 89130,"[-115.221776, 36.23127]",-115.221776,36.23127
+437,Inspire Med Spa & Aesthetics,2801 W Charleston Blvd #101,Las Vegas,Nv,89102,2801 W Charleston Blvd #101 Las Vegas NV 89102,"[-115.17929, 36.15854]",-115.17929,36.15854
+438,Allure Cosmetic Laser Center LLC,2575 S Cimarron Rd STE 200,Las Vegas,Nv,89117,2575 S Cimarron Rd STE 200 Las Vegas NV 89117,"[-115.27059, 36.14274]",-115.27059,36.14274
+439,Beauty Recon Pro,7925 W Sahara Ave Suite 103,Las Vegas,Nv,89117,7925 W Sahara Ave Suite 103 Las Vegas NV 89117,"[-115.2637, 36.14366]",-115.2637,36.14366
+440,Hollywood Wellness Med Spa,6850 W Spring Mountain Rd Ste 102,Las Vegas,Nv,89146,6850 W Spring Mountain Rd Ste 102 Las Vegas NV 89146,"[-115.241565, 36.126805]",-115.241565,36.126805
+441,Magic Body Sculpt,4560 S Eastern Ave Unit #18,Las Vegas,Nv,89120,4560 S Eastern Ave Unit #18 Las Vegas NV 89120,"[-115.11916, 36.10614]",-115.11916,36.10614
+442,LAS Vegas Plumbers and Plumbing Contractors,2315-B S Highland Dr,Las Vegas,Nv,89102,2315-B S Highland Dr Las Vegas NV 89102,"[-115.16757, 36.14606]",-115.16757,36.14606
+443,XCAPE,2295 E Sahara Ave Ste. 103,Las Vegas,Nv,89104,2295 E Sahara Ave Ste. 103 Las Vegas NV 89104,"[-115.120315, 36.143915]",-115.120315,36.143915
+444,Pro-Health Wellness Group,3376 S Eastern Ave #188A,Las Vegas,Nv,89169,3376 S Eastern Ave #188A Las Vegas NV 89169,"[-115.11796, 36.12855]",-115.11796,36.12855
+445,Spa Products Distributing,2625 E Tropicana Ave,Las Vegas,Nv,89121,2625 E Tropicana Ave Las Vegas NV 89121,"[-115.11405, 36.09987]",-115.11405,36.09987
+446,"Reliance Health & Wellness Solutions, LLC",2975 S Rainbow Blvd SUITE H,Las Vegas,Nv,89146,2975 S Rainbow Blvd SUITE H Las Vegas NV 89146,"[-115.24389, 36.13586]",-115.24389,36.13586
+447,Sunflower Day Spa,3650 S Decatur Blvd #28,Las Vegas,Nv,89103,3650 S Decatur Blvd #28 Las Vegas NV 89103,"[-115.207532, 36.123645]",-115.207532,36.123645
+448,Summer Palace Foot Spa,6000 Spring Mountain Rd,Las Vegas,Nv,89146,6000 Spring Mountain Rd Las Vegas NV 89146,"[-115.22341, 36.126045]",-115.22341,36.126045
+449,True Aveda Lifestyle Salon & Spa,4165 S Grand Canyon Dr #104,Las Vegas,Nv,89147,4165 S Grand Canyon Dr #104 Las Vegas NV 89147,"[-115.308525, 36.113935]",-115.308525,36.113935
+450,Damn Girl Body Contour,2325 Western Ave # 5,Las Vegas,Nv,89102,2325 Western Ave # 5 Las Vegas NV 89102,"[-115.16584, 36.14561]",-115.16584,36.14561
+451,Restoration Studio,8879 W Flamingo Rd Suite 201,Las Vegas,Nv,89147,8879 W Flamingo Rd Suite 201 Las Vegas NV 89147,"[-115.28541, 36.11382]",-115.28541,36.11382
+452,viTa sKin Mspa,7381 W Charleston Blvd Suite 140,Las Vegas,Nv,89117,7381 W Charleston Blvd Suite 140 Las Vegas NV 89117,"[-115.25298, 36.15895]",-115.25298,36.15895
+453,Permanent Spa Solutions,3735 N Nellis Blvd,Las Vegas,Nv,89115,3735 N Nellis Blvd Las Vegas NV 89115,"[-115.06281, 36.22773]",-115.06281,36.22773
+454,Face By Fong,6980 Smoke Ranch Rd #150,Las Vegas,Nv,89144,6980 Smoke Ranch Rd #150 Las Vegas NV 89144,"[-115.246195, 36.205125]",-115.246195,36.205125
+455,Vivant Medical and Beauty Spa,2688 S Rainbow Blvd Suite E,Las Vegas,Nv,89146,2688 S Rainbow Blvd Suite E Las Vegas NV 89146,"[-115.24226, 36.1407]",-115.24226,36.1407
+456,Phaeleii Beauty Permanent Makeup Studio & Academy,2605 S Decatur Blvd Suite 119,Las Vegas,Nv,89113,2605 S Decatur Blvd Suite 119 Las Vegas NV 89113,"[-115.20824, 36.14295]",-115.20824,36.14295
+457,Essensa Clinic,6859 S Eastern Ave Suite 104,Las Vegas,Nv,89119,6859 S Eastern Ave Suite 104 Las Vegas NV 89119,"[-115.12033, 36.065212]",-115.12033,36.065212
+458,"Empowered Pain, Primary and Urgent Care Center of Nevada",6465 W Sahara Ave Suite 103,Las Vegas,Nv,89146,6465 W Sahara Ave Suite 103 Las Vegas NV 89146,"[-115.2331, 36.143035]",-115.2331,36.143035
+459,The Drip Bar LV,4579 W Flamingo Rd,Las Vegas,Nv,89103,4579 W Flamingo Rd Las Vegas NV 89103,"[-115.20283, 36.11534]",-115.20283,36.11534
+460,Nail Spa Excel - Nail Salon Las Vegas,2208 S Nellis Blvd Ste K4,Las Vegas,Nv,89104,2208 S Nellis Blvd Ste K4 Las Vegas NV 89104,"[-115.06526, 36.14626]",-115.06526,36.14626
+461,Comfy Dental - Dental Clinic in Las Vegas,803 S 7th St,Las Vegas,Nv,89101,803 S 7th St Las Vegas NV 89101,"[-115.14401, 36.15948]",-115.14401,36.15948
+462,Hooha V-Spa LLC,4015 W Sahara Ave,Las Vegas,Nv,89102,4015 W Sahara Ave Las Vegas NV 89102,"[-115.1953, 36.144]",-115.1953,36.144
+463,BLU IV Spa & Wellness,6600 W Charleston Blvd Suite 125,Las Vegas,Nv,89146,6600 W Charleston Blvd Suite 125 Las Vegas NV 89146,"[-115.24103, 36.15968]",-115.24103,36.15968
+464,The Parasol Companies,7925 W Sahara Ave Ste 103,Las Vegas,Nv,89117,7925 W Sahara Ave Ste 103 Las Vegas NV 89117,"[-115.2637, 36.14366]",-115.2637,36.14366
+465,The Aesthetique Beauty Spa LV,2880 E Flamingo Rd H,Las Vegas,Nv,89121,2880 E Flamingo Rd H Las Vegas NV 89121,"[-115.11135, 36.11511]",-115.11135,36.11511
+466,Olinda Beauty Medical Spa,1601 E Flamingo Rd suite 19,Las Vegas,Nv,89119,1601 E Flamingo Rd suite 19 Las Vegas NV 89119,"[-115.13024, 36.11364]",-115.13024,36.11364
+467,Aysen Beauty,1641 E Flamingo Rd #8,Las Vegas,Nv,89119,1641 E Flamingo Rd #8 Las Vegas NV 89118,"[-115.13011, 36.11445]",-115.13011,36.11445
+468,Vegas waisted,7375 Prairie Falcon Rd STE 160,Las Vegas,Nv,89128,7375 Prairie Falcon Rd STE 160 Las Vegas NV 89128,"[-115.255159, 36.206455]",-115.255159,36.206455
+469,Musa Med Spa,2619 W Charleston Blvd Suite A,Las Vegas,Nv,89102,2619 W Charleston Blvd Suite A Las Vegas NV 89102,"[-115.17701, 36.15876]",-115.17701,36.15876
+470,Body Kinetics Wellness,2764 Lake Sahara Dr suite 109,Las Vegas,Nv,89102,2764 Lake Sahara Dr suite 109 Las Vegas NV 89118,"[-115.28354, 36.14044]",-115.28354,36.14044
+471,Skin Shine Stetic,7965 W Sahara Ave,Las Vegas,Nv,89117,7965 W Sahara Ave Las Vegas NV 89117,"[-115.26421, 36.14367]",-115.26421,36.14367
+472,TheSkinCoLab,501 S Rancho Dr STE D25,Las Vegas,Nv,89106,501 S Rancho Dr STE D25 Las Vegas NV 89106,"[-115.171582, 36.165085]",-115.171582,36.165085
+473,KH Aesthetics LV,800 N Rainbow Blvd Suite 208,Las Vegas,Nv,89107,800 N Rainbow Blvd Suite 208 Las Vegas NV 89107,"[-115.24166, 36.180445]",-115.24166,36.180445
+474,Imperial Health & Spa,1070 E Sahara Ave,Las Vegas,Nv,89104,1070 E Sahara Ave Las Vegas NV 89104,"[-115.139945, 36.145665]",-115.139945,36.145665
+475,Renew Medical Spa,6980 Smoke Ranch Rd Ste 150,Las Vegas,Nv,89128,6980 Smoke Ranch Rd Ste 150 Las Vegas NV 89128,"[-115.246195, 36.205125]",-115.246195,36.205125
+476,Relax massage spa,5325 S Fort Apache Rd Ste E,Las Vegas,Nv,89148,5325 S Fort Apache Rd Ste E Las Vegas NV 89148,"[-115.29828, 36.09198]",-115.29828,36.09198
+477,Kivera Laser Spa,8751 W Charleston Blvd Ste 210,Las Vegas,Nv,89117,8751 W Charleston Blvd Ste 210 Las Vegas NV 89117,"[-115.28584, 36.15805]",-115.28584,36.15805
+478,Flawless Aesthetics,7997 W Sahara Ave Ste 103,Las Vegas,Nv,89117,7997 W Sahara Ave Ste 103 Las Vegas NV 89117,"[-115.26498, 36.14369]",-115.26498,36.14369
+479,Advanced Body Therapy,"Private Address in Las Vegas, NV",Las Vegas,Nv,89147,"Private Address in Las Vegas, NV Las Vegas NV 89147","[-115.31439, 36.120578]",-115.31439,36.120578
+480,C & L Massage,775 W Craig Rd Ste 164,Las Vegas,Nv,89032,775 W Craig Rd Ste 164 Las Vegas NV 89032,"[-115.15154, 36.238335]",-115.15154,36.238335
+481,MD Laser Med Spa,7175 W Lake Mead Blvd,Las Vegas,Nv,89128,7175 W Lake Mead Blvd Las Vegas NV 89128,"[-115.24813, 36.19553]",-115.24813,36.19553
+482,BluePoint Medical Group,3320 N Buffalo Dr,Las Vegas,Nv,89129,3320 N Buffalo Dr Las Vegas NV 89129,"[-115.25985, 36.22155]",-115.25985,36.22155
+483,Perfectskinlv,6345 S Pecos Rd Ste 107,Las Vegas,Nv,89120,6345 S Pecos Rd Ste 107 Las Vegas Nv 89120,"[-115.10096, 36.0744]",-115.10096,36.0744
+484,Jamie Lee Metz Aesthetic Spa,222 S Rainbow Blvd,Las Vegas,Nv,89120,222 S Rainbow Blvd Las Vegas NV 89145,"[-115.246035, 36.17131]",-115.246035,36.17131
+485,Transformation Med Spa,2900 N Green Valley Pkwy 114,Henderson,Nv,89014,2900 N Green Valley Pkwy 114 Henderson NV 89014,"[-115.08199, 36.074775]",-115.08199,36.074775
+486,Nevada Internal Medicine Center,4275 S Burnham Ave Ste 200A,Las Vegas,Nv,89119,4275 S Burnham Ave Ste 200A Las Vegas NV 89119,"[-115.12445, 36.11156]",-115.12445,36.11156
+487,VEIN CLINIC OF LAS VEGAS,9060 W. POST RD,STE 200,Nv,89148,9060 W. POST RD STE 200 NV 89148,"[-115.290034, 36.07517]",-115.290034,36.07517
+488,Aqua Bella Health Care,2380 N Buffalo Dr Ste 150,Las Vegas,Nv,89128,2380 N Buffalo Dr Ste 150 Las Vegas NV 89128,"[-115.259955, 36.20302]",-115.259955,36.20302
+489,A Las Vegas Pediatrics,5876 S Pecos Rd,Las Vegas,Nv,89120,5876 S Pecos Rd Las Vegas Nv 89120,"[-115.10045, 36.08334]",-115.10045,36.08334
+490,Hot Spot Wraps And More,1520 W Sunset Rd Ste 130,Henderson,Nv,89014,1520 W Sunset Rd Ste 130 Henderson NV 89014,"[-115.05329, 36.06378]",-115.05329,36.06378
+491,LBA Aesthetics,1550 E Tropicana Ave Ste 5,Las Vegas,Nv,89119,1550 E Tropicana Ave Ste 5 Las Vegas NV 89119,"[-115.13094, 36.10146]",-115.13094,36.10146
+492,Orsi Skin Care,2470 Chandler Ave Ste 4,Las Vegas,Nv,89120,2470 Chandler Ave Ste 4 Las Vegas NV 89120,"[-115.11687, 36.07482]",-115.11687,36.07482
+493,Lmarie's Bare Elegance,9555 S Eastern Ave Ste 240,Las Vegas,Nv,89123,9555 S Eastern Ave Ste 240 Las Vegas NV 89123,"[-115.1188, 36.01628]",-115.1188,36.01628
+494,Internally Fit,612 S Jones Blvd,Las Vegas,Nv,89107,612 S Jones Blvd Las Vegas NV 89107,"[-115.22351, 36.164335]",-115.22351,36.164335
+495,Juvena Skin Care,430 S Rampart Blvd,Tivoli Vilage,Nv,89107,430 S Rampart Blvd Tivoli Vilage NV 89145-5734,"[-115.28726, 36.16757]",-115.28726,36.16757
+496,"Dr. John Minoli, Plastic Surgeon",7650 W Sahara Ave,Las Vegas,Nv,89117,7650 W Sahara Ave Las Vegas NV 89117,"[-115.25789, 36.14438]",-115.25789,36.14438
+497,Las Vegas Vein Center,2901 N Tenaya Way,Las Vegas,Nv,89128,2901 N Tenaya Way Las Vegas NV 89128,"[-115.250785, 36.2137]",-115.250785,36.2137
+498,Sahara Family & Skin Clinic,7720 W Sahara Ave Ste 103,Las Vegas,Nv,89117,7720 W Sahara Ave Ste 103 Las Vegas NV 89117,"[-115.25961, 36.14381]",-115.25961,36.14381
+499,Las Vegas Spaw,5693 S Jones Blvd Ste 111,Las Vegas,Nv,89117,5693 S Jones Blvd Ste 111 Las Vegas NV 89118,"[-115.22596, 36.08648]",-115.22596,36.08648
+500,Jurgita's Skin Care,6400 S Eastern Ave 12,Las Vegas,Nv,89119,6400 S Eastern Ave 12 Las Vegas NV 89119,"[-115.11881, 36.07385]",-115.11881,36.07385
+501,Iced Out Barbershop,1100 N Martin L King Blvd Ste D,Las Vegas,Nv,89106,1100 N Martin L King Blvd Ste D Las Vegas NV 89106,"[-115.16033, 36.183175]",-115.16033,36.183175
+502,Las Vegas Colon Hydrotherapy,1815 W Charleston Blvd Ste 5,Las Vegas,Nv,89102,1815 W Charleston Blvd Ste 5 Las Vegas NV 89102,"[-115.16626, 36.15833]",-115.16626,36.15833
+503,Acupuncture Vegas,2760 Lake Sahara Dr Ste 104,Las Vegas,Nv,89117,2760 Lake Sahara Dr Ste 104 Las Vegas NV 89117,"[-115.28312, 36.140005]",-115.28312,36.140005
+504,More Than Medical Wellness,5875 S Rainbow Blvd Ste 202,Las Vegas,Nv,89117,5875 S Rainbow Blvd Ste 202 Las Vegas NV 89118,"[-115.24339, 36.08197]",-115.24339,36.08197
+505,Las Vegas Medi Pedi Center & Spa,2700 E Sunset Rd Ste 33,Las Vegas Nevada,Nv,89120,2700 E Sunset Rd Ste 33 Las Vegas Nevada NV 89120,"[-115.11183, 36.07211]",-115.11183,36.07211
+506,Pure Medspa,3608 S Maryland Pkwy,Las Vegas,Nv,89169,3608 S Maryland Pkwy Las Vegas NV 89169,"[-115.13716, 36.12383]",-115.13716,36.12383
+508,Always Beautifull,2560 Belcastro St,Las Vegas,Nv,89117,2560 Belcastro St Las Vegas NV 89117,"[-115.24932, 36.1431]",-115.24932,36.1431
+509,Sam's Spa,6340 W Charleston Blvd,Las Vegas,Nv,89146,6340 W Charleston Blvd Las Vegas NV 89146,"[-115.23219, 36.15931]",-115.23219,36.15931
+510,Weingrow Wellness & Medical Center,7200 Smoke Ranch Rd,Las Vegas,Nv,89128,7200 Smoke Ranch Rd Las Vegas NV 89128,"[-115.24872, 36.203775]",-115.24872,36.203775
+511,The Golden Monk,4950 Srainbow Blvd,Las Vegas,Nv,89128,4950 Srainbow Blvd Las Vegas NV 89118,"[-115.24257, 36.09859]",-115.24257,36.09859
+512,Look Refreshed,3900 W Charleston Blvd,Las Vegas,Nv,89102,3900 W Charleston Blvd Las Vegas NV 89102,"[-115.19247, 36.15915]",-115.19247,36.15915
+513,Eternal Beauty Salon LV,2121 N Decatur Blvd,Las Vegas,Nv,89108,2121 N Decatur Blvd Las Vegas NV 89108,"[-115.20602, 36.19735]",-115.20602,36.19735
+514,Lash Queen International,Palm Desert,Las Vegas,Nv,89183,Palm Desert Las Vegas NV 89183,"[-115.141406, 36.004636]",-115.141406,36.004636
+515,Renewed Mind Wellness Center,4170 S Decatur Blvd,Las Vegas,Nv,89103,4170 S Decatur Blvd Las Vegas NV 89103,"[-115.20712, 36.11405]",-115.20712,36.11405
+516,NV Spa,600 Fremont St,Las Vegas,Nv,89101,600 Fremont St Las Vegas NV 89101,"[-115.138625, 36.169095]",-115.138625,36.169095
+517,Terry Rae Beauty Salon,600 E Fremont St,Las Vegas,Nv,89101,600 E Fremont St Las Vegas NV 89101,"[-115.138625, 36.169095]",-115.138625,36.169095
+518,Artisan Center MedSpa,4355 W Spring Mountain Rd,Las Vegas,Nv,89102,4355 W Spring Mountain Rd Las Vegas NV 89102,"[-115.197895, 36.12594]",-115.197895,36.12594
+519,Razzy Love Your Curves,8756 Autumn Wreath Ave,Las Vegas,Nv,89129,8756 Autumn Wreath Ave Las Vegas NV 89129,"[-115.28653, 36.22848]",-115.28653,36.22848
+520,Diamond Injections,1510 Bridle Dr,Las Vegas,Nv,89109,1510 Bridle Dr Las Vegas NV 89109,"[-115.171306, 36.122358]",-115.171306,36.122358
+521,Diamond Heart Spa,923 S Rainbow Blvd,Las Vegas,Nv,89109,923 S Rainbow Blvd Las Vegas NV 89145,"[-115.24362, 36.16111]",-115.24362,36.16111
+522,The Sculpted Body,6787 W Tropicana Ave,Las Vegas,Nv,89103,6787 W Tropicana Ave Las Vegas NV 89103,"[-115.24005, 36.09973]",-115.24005,36.09973
+523,Life Like Hair Center,1010 E Sahara Ave,Las Vegas,Nv,89104,1010 E Sahara Ave Las Vegas NV 89104,"[-115.1407, 36.14505]",-115.1407,36.14505
+524,Ultimate U Medical,5495 S Rainbow Blvd,Henderson,Nv,89014,5495 S Rainbow Blvd Henderson NV 89014,"[-115.24354, 36.08903]",-115.24354,36.08903
+525,Skin City Medi Spa,305 Petaluma Blvd S,Las Vegas,Nv,89109,305 Petaluma Blvd S Las Vegas NV 89109,"[-115.138882, 36.08263]",-115.138882,36.08263
+526,AK Body,1000 S Valley View Blvd,Las Vegas,Nv,89107,1000 S Valley View Blvd Las Vegas NV 89107,"[-115.19288, 36.16025]",-115.19288,36.16025
+527,Be Well Beauty & Wellness,6787 W Tropicana Ave,Las Vegas,Nv,89103,6787 W Tropicana Ave Las Vegas NV 89103,"[-115.24005, 36.09973]",-115.24005,36.09973
+528,Eternal Wellth,2801 South Valley View Blvd,Las Vegas,Nv,89102,2801 South Valley View Blvd Las Vegas NV 89102,"[-115.1914, 36.1405]",-115.1914,36.1405
+529,Sawasdee Thai Spa,7207 W Sahara Ave,Las Vegas,Nv,89117,7207 W Sahara Ave Las Vegas NV 89117,"[-115.25061, 36.14339]",-115.25061,36.14339
+530,Body By Slay,8221 W Charleston Blvd,Las Vegas,Nv,89117,8221 W Charleston Blvd Las Vegas NV 89117,"[-115.2725, 36.15874]",-115.2725,36.15874
+531,M Thai Massage Spa,3110 S Valley View Blvd,Las Vegas,Nv,89102,3110 S Valley View Blvd Las Vegas NV 89102,"[-115.18958, 36.13347]",-115.18958,36.13347
+532,You Got Glow Medical Spa,3041 W Horizon Ridge Pkwy,Henderson,Nv,89052,3041 W Horizon Ridge Pkwy Henderson NV 89052,"[-115.121487, 35.997581]",-115.121487,35.997581
+533,Smooth Image,6787 W Tropicana,Las Vegas,Nv,89103,6787 W Tropicana Las Vegas NV 89103,"[-115.24005, 36.09973]",-115.24005,36.09973
+534,Iris Skin Care & Massage,6985 W Sahara Ave,Las Vegas,Nv,89117,6985 W Sahara Ave Las Vegas NV 89117,"[-115.24447, 36.14308]",-115.24447,36.14308
+535,West Tropicana Medical Spa-Hair Restoration,6787 W Tropicana Ave,Las Vegas,Nv,89103,6787 W Tropicana Ave Las Vegas NV 89103,"[-115.24005, 36.09973]",-115.24005,36.09973
+536,Zoya's Best Skin Care,7871 W Charleston Blvd,Las Vegas,Nv,89117,7871 W Charleston Blvd Las Vegas NV 89117,"[-115.26361, 36.15868]",-115.26361,36.15868
+537,Body Contouring of Las Vegas,5506 S Fort Apache Rd,Las Vegas,Nv,89148,5506 S Fort Apache Rd Las Vegas NV 89148,"[-115.29642, 36.08851]",-115.29642,36.08851
+538,Waldorf Astoria Las Vegas,3752 Las Vegas Blvd S,Las Vegas,Nv,89158,3752 Las Vegas Blvd S Las Vegas NV 89158,"[-115.1742, 36.10656]",-115.1742,36.10656
+539,Breakthrough wellness clinic,8645 W Sahara Ave,Las Vegas,Nv,89117,8645 W Sahara Ave Las Vegas NV 89117,"[-115.28106, 36.14402]",-115.28106,36.14402
+540,The Law Spa,2013 Alta Dr,Las Vegas,Nv,89106,2013 Alta Dr Las Vegas NV 89106,"[-115.16876, 36.1659]",-115.16876,36.1659
+541,Four Seasons Salon & Skin Care,1750 N Buffalo Dr Ste 108,Las Vegas,Nv,89128,1750 N Buffalo Dr Ste 108 Las Vegas NV 89128,"[-115.25916, 36.19048]",-115.25916,36.19048
+542,Wood Therapy,5795 S Sandhill Rd,Las Vegas,Nv,89120,5795 S Sandhill Rd Las Vegas NV 89120,"[-115.09216, 36.08428]",-115.09216,36.08428
+543,Coolsculpting Las Vegas NV,2300 W Sahara Ave Suite 800,Las Vegas,Nv,89102,2300 W Sahara Ave Suite 800 Las Vegas NV 89102,"[-115.17441, 36.14524]",-115.17441,36.14524
+544,NkdSkin M.D Laser Lounge,S Maryland Pkwy,Las Vegas,Nv,89109,S Maryland Pkwy Las Vegas NV 89109,"[-115.13888, 36.01038]",-115.13888,36.01038
+545,Zenestar,1781 Village Center Cir STE 130,Las Vegas,Nv,89134,1781 Village Center Cir STE 130 Las Vegas NV 89134,"[-115.300647, 36.19222]",-115.300647,36.19222
+546,THE Medical Spa,4350 Sunset Rd,Henderson,Nv,89014,4350 Sunset Rd Henderson NV 89014,"[-115.078584, 36.071404]",-115.078584,36.071404
+547,Image Med Spa,8930 W Sunset Rd Suite 370,Las Vegas,Nv,89148,8930 W Sunset Rd Suite 370 Las Vegas NV 89148,"[-115.28662, 36.07192]",-115.28662,36.07192
+548,K. Fiore,4815 W Russell Rd #8h,Las Vegas,Nv,89148,4815 W Russell Rd #8h Las Vegas NV 89118,"[-115.20655, 36.08582]",-115.20655,36.08582
+549,The Secret Face & Body Bar,6345 S Rainbow Blvd #104,Las Vegas,Nv,89148,6345 S Rainbow Blvd #104 Las Vegas NV 89118,"[-115.24372, 36.07311]",-115.24372,36.07311
+550,SKEANSLAY,9205 W Russell Rd Suite 240,Las Vegas,Nv,89148,9205 W Russell Rd Suite 240 Las Vegas NV 89148,"[-115.29361, 36.08454]",-115.29361,36.08454
+551,Summerlin Body Therapeutics,7455 W Washington Ave #210,Las Vegas,Nv,89128,7455 W Washington Ave #210 Las Vegas NV 89128,"[-115.25562, 36.17917]",-115.25562,36.17917
+552,No Lines By Design,7906 W Sahara Ave,Las Vegas,Nv,89117,7906 W Sahara Ave Las Vegas NV 89117,"[-115.26363, 36.1446]",-115.26363,36.1446
+553,Medi-Slim Weight Loss & Spa,2001 S Rainbow Blvd # 100,Las Vegas,Nv,89146,2001 S Rainbow Blvd # 100 Las Vegas NV 89146,"[-115.24387, 36.14936]",-115.24387,36.14936
+554,Gerber Chiropractic,1928 Rock Springs Dr,Las Vegas,Nv,89128,1928 Rock Springs Dr Las Vegas NV 89128,"[-115.24692, 36.19496]",-115.24692,36.19496
+555,Relax Massage Spa,5325 S Fort Apache Rd E,Las Vegas,Nv,89148,5325 S Fort Apache Rd E Las Vegas NV 89148,"[-115.29828, 36.09198]",-115.29828,36.09198
+556,Total Wellness Family Medicine,5225 S Durango Dr,Las Vegas,Nv,89113,5225 S Durango Dr Las Vegas NV 89113,"[-115.280045, 36.094005]",-115.280045,36.094005
+558,Dolphin Court Salon & Day Spa,7581 W Lake Mead Blvd #130,Las Vegas,Nv,89128,7581 W Lake Mead Blvd #130 Las Vegas NV 89128,"[-115.25735, 36.19602]",-115.25735,36.19602
+559,Flawless Medspa Las Vegas,9418 W Lake Mead Blvd,Las Vegas,Nv,89117,9418 W Lake Mead Blvd Las Vegas NV 89117,"[-115.30182, 36.207425]",-115.30182,36.207425
+560,CTS by Black Sapphire Esthetics SPA & Training,3855 S Valley View Blvd #2,Las Vegas,Nv,89103,3855 S Valley View Blvd #2 Las Vegas NV 89103,"[-115.19134, 36.12162]",-115.19134,36.12162
+561,WOW Health & Beauty,6345 S Rainbow Blvd Suite 104,Las Vegas,Nv,89119,6345 S Rainbow Blvd Suite 104 Las Vegas NV 89119,"[-115.24372, 36.07311]",-115.24372,36.07311
+562,Bella Mi Salon and Nail Spa,4429 W Flamingo Rd,Las Vegas,Nv,89103,4429 W Flamingo Rd Las Vegas NV 89103,"[-115.20065, 36.11534]",-115.20065,36.11534
+563,Illuminate You Spray Tan & Eyelash Extensions,9080 W Post Rd #300,Las Vegas,Nv,89148,9080 W Post Rd #300 Las Vegas NV 89148,"[-115.29067, 36.07433]",-115.29067,36.07433
+564,MèliAura Spa,10120 S Eastern Ave Suite 140,Henderson,Nv,89052,10120 S Eastern Ave Suite 140 Henderson NV 89052,"[-115.11101, 36.006235]",-115.11101,36.006235
+565,Novak Laser Boutique,8545 S Eastern Ave #104,Las Vegas,Nv,89123,8545 S Eastern Ave #104 Las Vegas NV 89123,"[-115.12022, 36.03452]",-115.12022,36.03452
+566,Rejuvenis Aesthetics and Wellness,6725 S Eastern Ave,Las Vegas,Nv,89119,6725 S Eastern Ave Las Vegas NV 89119,"[-115.1192, 36.067585]",-115.1192,36.067585
+567,Bodies by Bonnie,4850 W Flamingo Rd Suite 27,Las Vegas,Nv,89103,4850 W Flamingo Rd Suite 27 Las Vegas NV 89103,"[-115.20679, 36.11655]",-115.20679,36.11655
+568,Lavender Drug Detox & Rehab Las Vegas NV,5795 W Tropicana Ave,Las Vegas,Nv,89103,5795 W Tropicana Ave Las Vegas NV 89103,"[-115.22048, 36.09982]",-115.22048,36.09982
+569,Slim Sculpting Spa,4195 S Grand Canyon Dr Suite 106 Unit D,Las Vegas,Nv,89147,4195 S Grand Canyon Dr Suite 106 Unit D Las Vegas NV 89147,"[-115.30976, 36.11335]",-115.30976,36.11335
+570,Las Vegas Laser Skin Care,4280 S Hualapai Way #200,Las Vegas,Nv,89147,4280 S Hualapai Way #200 Las Vegas NV 89147,"[-115.31434, 36.11206]",-115.31434,36.11206
+571,Morning Drug Detox & Rehab North Las Vegas,3451 Losee Rd,North Las Vegas,Nv,89030,3451 Losee Rd North Las Vegas NV 89030,"[-115.12391, 36.22308]",-115.12391,36.22308
+572,Scalp & Skin Treatment Center,6625 W Sahara Ave STE 5,Las Vegas,Nv,89146,6625 W Sahara Ave STE 5 Las Vegas NV 89146,"[-115.23727, 36.1431]",-115.23727,36.1431
+573,CoolSculpting Specialists,10080 Alta Dr #120,Las Vegas,Nv,89146,10080 Alta Dr #120 Las Vegas NV 89145,"[-115.314435, 36.16875]",-115.314435,36.16875
+574,BestU Health Boutique,801 S Rancho Dr Suite B1B,Las Vegas,Nv,89106,801 S Rancho Dr Suite B1B Las Vegas NV 89106,"[-115.07459, 36.27226]",-115.07459,36.27226
+575,RejuvLV Wellness & Aesthetics,8130 W Warm Springs Rd Suite 150,Las Vegas,Nv,89113,8130 W Warm Springs Rd Suite 150 Las Vegas NV 89113,"[-115.26842, 36.056395]",-115.26842,36.056395
+576,VIP FACES,1900 E Desert Inn Rd,Las Vegas,Nv,89169,1900 E Desert Inn Rd Las Vegas NV 89169,"[-115.1256, 36.13021]",-115.1256,36.13021
+577,Vegas Beauty Skin Center,5861 W Craig Rd #102,Las Vegas,Nv,89130,5861 W Craig Rd #102 Las Vegas NV 89130,"[-115.224535, 36.23851]",-115.224535,36.23851
+578,Medical Reducing Inc,2466 E Desert Inn Rd C,Las Vegas,Nv,89121,2466 E Desert Inn Rd C Las Vegas NV 89121,"[-115.117115, 36.130875]",-115.117115,36.130875
+579,Healthy Slimmings,3505 E Flamingo Rd Suite 3,Las Vegas,Nv,89121,3505 E Flamingo Rd Suite 3 Las Vegas NV 89121,"[-115.098454, 36.114565]",-115.098454,36.114565
+580,Medi-Trina Health Spa Essentials,5045 S Rogers St #10,Las Vegas,Nv,89121,5045 S Rogers St #10 Las Vegas NV 89118,"[-115.20162, 36.0988]",-115.20162,36.0988
+581,LAS VEGAS MIND SPA,1701 W Charleston Blvd STE 600,Las Vegas,Nv,89102,1701 W Charleston Blvd STE 600 Las Vegas NV 89102,"[-115.16439, 36.15727]",-115.16439,36.15727
+582,Discount CoolSculpting of Las Vegas,6020 S Rainbow Blvd C,Las Vegas,Nv,89102,6020 S Rainbow Blvd C Las Vegas NV 89118,"[-115.2418, 36.07939]",-115.2418,36.07939
+583,Yin City Therapeutic Arts,1800 South Industrial Road Downtown spaces,Las Vegas,Nv,89102,1800 South Industrial Road Downtown spaces Las Vegas NV 89102,"[-115.16056, 36.15028]",-115.16056,36.15028
+584,Elos Laser,6625 W Sahara Ave STE 5,Las Vegas,Nv,89146,6625 W Sahara Ave STE 5 Las Vegas NV 89146,"[-115.23727, 36.1431]",-115.23727,36.1431
+585,TameD Hair Studio,1012 E Charleston Blvd Suite 101,Las Vegas,Nv,89104,1012 E Charleston Blvd Suite 101 Las Vegas NV 89104,"[-115.14017, 36.15876]",-115.14017,36.15876
+586,Las Vegas Skin & Laser,8130 W Warm Springs Rd Suite 160,Las Vegas,Nv,89113,8130 W Warm Springs Rd Suite 160 Las Vegas NV 89113,"[-115.26842, 36.056395]",-115.26842,36.056395
+587,g Aveda Salon & Spa Downtown Summerlin,1825 Festival Plaza Dr Suite 100,Las Vegas,Nv,89135,1825 Festival Plaza Dr Suite 100 Las Vegas NV 89135,"[-115.3343, 36.15128]",-115.3343,36.15128
+588,Faces By Beba,4235 S Fort Apache Rd #100,Las Vegas,Nv,89147,4235 S Fort Apache Rd #100 Las Vegas NV 89147,"[-115.29795, 36.1123]",-115.29795,36.1123
+589,Beauty Marks Vegas,2986 St Rose Pkwy Ste 100,Henderson,Nv,89113,2986 St Rose Pkwy Ste 100 Henderson NV 89113,"[-115.11698, 35.99968]",-115.11698,35.99968
+590,Altered states wellness center,71 N Sandhill Rd,Las Vegas,Nv,89110,71 N Sandhill Rd Las Vegas NV 89110,"[-115.08953, 36.16223]",-115.08953,36.16223
+591,Hart Skincare Studio,4001 S Buffalo Rd Ste 127,Las Vegas,Nv,89147,4001 S Buffalo Rd Ste 127 Las Vegas NV 89147,"[-115.261475, 36.11652]",-115.261475,36.11652
+592,Don Nobis Progressive Physical Therapy,801 S Rancho Dr ste f,Las Vegas,Nv,89106,801 S Rancho Dr ste f Las Vegas NV 89106,"[-115.17195, 36.16148]",-115.17195,36.16148
+593,My.U.Me Aesthetics,2110 E Flamingo Rd Suite 203,Las Vegas,Nv,89119,2110 E Flamingo Rd Suite 203 Las Vegas NV 89119,"[-115.12317, 36.115655]",-115.12317,36.115655
+594,Diori Medspa & Aesthetics Lounge,4315 Dean Martin Dr,Las Vegas,Nv,89103,4315 Dean Martin Dr Las Vegas NV 89103,"[-115.18139, 36.1113]",-115.18139,36.1113
+595,The Babe Lair,5320 W Sahara Ave # 1,Las Vegas,Nv,89146,5320 W Sahara Ave # 1 Las Vegas NV 89146,"[-115.2143, 36.14502]",-115.2143,36.14502
+596,Fulu Foot Spa,4840 Spring Mountain Rd #3,Las Vegas,Nv,89102,4840 Spring Mountain Rd #3 Las Vegas NV 89102,"[-115.20691, 36.12658]",-115.20691,36.12658
+597,Maulini Esthetics Body & Skin Spa,2225 E Flamingo Rd suite 100,Las Vegas,Nv,89119,2225 E Flamingo Rd suite 100 Las Vegas NV 89119,"[-115.12245, 36.11407]",-115.12245,36.11407
+598,CosMedic Therapy,653 N Town Center Dr #512,Las Vegas,Nv,89144,653 N Town Center Dr #512 Las Vegas NV 89144,"[-115.31622, 36.18043]",-115.31622,36.18043
+599,A Las Vegas Aesthetics,5876 S Pecos Rd,Las Vegas,Nv,89120,5876 S Pecos Rd Las Vegas NV 89120,"[-115.10045, 36.08334]",-115.10045,36.08334
+600,SLO Esthetics,546 N Eastern Ave Suite 120,Las Vegas,Nv,89101,546 N Eastern Ave Suite 120 Las Vegas NV 89101,"[-115.11495, 36.17177]",-115.11495,36.17177
+601,Cecis Skin Care,5255 S Decatur Blvd #117,Las Vegas,Nv,89101,5255 S Decatur Blvd #117 Las Vegas NV 89118,"[-115.20859, 36.094575]",-115.20859,36.094575
+602,NP Aesthetics Las Vegas,7131 W Craig Rd,Las Vegas,Nv,89129,7131 W Craig Rd Las Vegas NV 89129,"[-115.2505, 36.24033]",-115.2505,36.24033
+603,NuSkin Med Spa - Skin•Brows•Lashes,"The Hamlet Center, 4777 E Charleston Blvd suite 111",Las Vegas,Nv,89104,"The Hamlet Center, 4777 E Charleston Blvd suite 111 Las Vegas NV 89104","[-115.0706, 36.158545]",-115.0706,36.158545
+604,DeepTissue Spa,2-126 N Main St,Las Vegas,Nv,89101,2-126 N Main St Las Vegas NV 89101,"[-115.14073, 36.180915]",-115.14073,36.180915
+605,Lure Boutique Medical Spa,3140 S Rainbow Blvd 401 Room 2,Las Vegas,Nv,89146,3140 S Rainbow Blvd 401 Room 2 Las Vegas NV 89146,"[-115.24122, 36.13248]",-115.24122,36.13248
+606,Pacifica Med Spa LV,10561 Jeffreys St #100,Henderson,Nv,89052,10561 Jeffreys St #100 Henderson NV 89052,"[-115.12, 35.99956]",-115.12,35.99956
+607,Divine Aesthetics Med Spa,6830 S Rainbow Blvd Suite 130,Las Vegas,Nv,89052,6830 S Rainbow Blvd Suite 130 Las Vegas NV 89118,"[-115.24233, 36.06406]",-115.24233,36.06406
+608,AvillaBeauty,800 N Rainbow Blvd,Las Vegas,Nv,89107,800 N Rainbow Blvd Las Vegas NV 89107,"[-115.24166, 36.180445]",-115.24166,36.180445
+609,FIORE Med Spa,4815 W Russell Rd Unit 8H,Las Vegas,Nv,89107,4815 W Russell Rd Unit 8H Las Vegas NV NV,"[-115.20655, 36.08582]",-115.20655,36.08582
+610,Good Thai Spa Massage,4581 W Flamingo Rd,Las Vegas,Nv,89103,4581 W Flamingo Rd Las Vegas NV 89103,"[-115.20283, 36.11534]",-115.20283,36.11534
+611,Lilac Health Spa/Good Foot Spa,3871 S Valley View Blvd,Las Vegas,Nv,89103,3871 S Valley View Blvd Las Vegas NV 89103,"[-115.19132, 36.11964]",-115.19132,36.11964
+612,The Dolce Vita Spa,4250 S Rainbow Blvd,Las Vegas,Nv,89103,4250 S Rainbow Blvd Las Vegas NV 89103,"[-115.24287, 36.11184]",-115.24287,36.11184
+613,Trilogy Medical Partners,7365 Prarie Falcon Rd Ste 140,Las Vegas,Nv,89128,7365 Prarie Falcon Rd Ste 140 Las Vegas NV 89128,"[-115.25315, 36.20646]",-115.25315,36.20646
+614,Dermatherapy Las Vegas,653 N Town Center Dr Ste 512,Las Vegas,Nv,89144,653 N Town Center Dr Ste 512 Las Vegas NV 89144,"[-115.31622, 36.18043]",-115.31622,36.18043
+615,The Recovery Zone,6230 S Decatur Blvd Ste 100,Las Vegas,Nv,89144,6230 S Decatur Blvd Ste 100 Las Vegas NV 89118,"[-115.20715, 36.07673]",-115.20715,36.07673
+616,ReNu Image Med Spa,900 S Valley View Blvd #100,Las Vegas,Nv,89107,900 S Valley View Blvd #100 Las Vegas NV 89107,"[-115.19286, 36.16121]",-115.19286,36.16121
+617,Skintegrity Skin Spa,1215 S Fort Apache Rd Suite 230,Las Vegas,Nv,89117,1215 S Fort Apache Rd Suite 230 Las Vegas NV 89117,"[-115.2926, 36.15704]",-115.2926,36.15704
+618,Alexanders Salon,6345 S Pecos Rd,Las Vegas,Nv,89120,6345 S Pecos Rd Las Vegas NV 89120,"[-115.10098, 36.07455]",-115.10098,36.07455
+619,Euphoria Salons & Day Spas,3355 S Highland Dr,Las Vegas,Nv,89109,3355 S Highland Dr Las Vegas NV 89109,"[-115.1791, 36.12906]",-115.1791,36.12906
+620,las vegas Massage Spa,3133 Sammy Davis Jr Dr,Las Vegas,Nv,89109,3133 Sammy Davis Jr Dr Las Vegas NV 89109,"[-115.17279, 36.13221]",-115.17279,36.13221
+621,Faithfully Therapeutic,4010 S Fort Apache Rd,Las Vegas,Nv,89147,4010 S Fort Apache Rd Las Vegas NV 89147,"[-115.2969, 36.11702]",-115.2969,36.11702
+622,Pro Nails & Skincare,3839 W Sahara Ave,Las Vegas,Nv,89102,3839 W Sahara Ave Las Vegas NV 89102,"[-115.19317, 36.14398]",-115.19317,36.14398
+623,Las Vegas,1910 Village Center Cir Ste 1,Las Vegas,Nv,89134,1910 Village Center Cir Ste 1 Las Vegas NV 89134,"[-115.3036, 36.1932]",-115.3036,36.1932
+624,Number One Nail & Skin Care,5665 E Charleston Blvd,Las Vegas,Nv,89142,5665 E Charleston Blvd Las Vegas NV 89142,"[-115.05032, 36.15887]",-115.05032,36.15887
+625,Pure Med Spa,1300 W Sunset Rd Ste 2505,Henderson,Nv,89014,1300 W Sunset Rd Ste 2505 Henderson Nv 89014,"[-115.0426, 36.06627]",-115.0426,36.06627
+626,Lilly's Skincare & Massage,80 E Pebble Rd,Las Vegas,Nv,89123,80 E Pebble Rd Las Vegas NV 89123,"[-115.16874, 36.02886]",-115.16874,36.02886
+627,Lee's Oriental Medical Clinic,1223 S Maryland Pkwy,Las Vegas,Nv,89104,1223 S Maryland Pkwy Las Vegas NV 89104,"[-115.13643, 36.15557]",-115.13643,36.15557
+628,Skin Envy Organic Skin Care,6345 S Pecos Rd,Las Vegas,Nv,89120,6345 S Pecos Rd Las Vegas Nv 89120,"[-115.10098, 36.07455]",-115.10098,36.07455
+629,Medical Spa At Summerlin,653 N Town Center Dr,Las Vegas,Nv,89144,653 N Town Center Dr Las Vegas Nv 89144,"[-115.31622, 36.18043]",-115.31622,36.18043
+630,Rejuvenetix Institute of Integrative Medicine,7670 W Sahara Ave Ste 2,Las Vegas,Nv,89117,7670 W Sahara Ave Ste 2 Las Vegas NV 89117,"[-115.25854, 36.14536]",-115.25854,36.14536
+631,Enliven Skin and Beauty,8751 W Charleston Blvd,Las Vegas,Nv,89117,8751 W Charleston Blvd Las Vegas NV 89117,"[-115.28584, 36.15805]",-115.28584,36.15805
+633,Aminah's Organic Skin Spa,6600 W Charleston Blvd,Las Vegas,Nv,89146,6600 W Charleston Blvd Las Vegas NV 89146,"[-115.24103, 36.15968]",-115.24103,36.15968
+634,Seven Heart Med Spa,3900 W Charleston Blvd,Las Vegas,Nv,89102,3900 W Charleston Blvd Las Vegas NV 89102,"[-115.19247, 36.15915]",-115.19247,36.15915
+635,Max Health Center of Chiropractic Las Vegas - Rancho,600 S Rancho Dr,Las Vegas,Nv,89106,600 S Rancho Dr Las Vegas NV 89106,"[-115.17346, 36.16386]",-115.17346,36.16386
+636,Full Circle Care,2121 East Flamingo Rd,Paradise,Nv,89119,2121 East Flamingo Rd Paradise NV 89119,"[-115.12328, 36.11373]",-115.12328,36.11373
+637,Y Y Foot Spa,3859 Spring Mountain Rd,Las Vegas,Nv,89102,3859 Spring Mountain Rd Las Vegas NV 89102,"[-115.19151, 36.12658]",-115.19151,36.12658
+638,ALOE SPA,855 E Twain Ave,Las Vegas,Nv,89169,855 E Twain Ave Las Vegas NV 89169,"[-115.1448, 36.121635]",-115.1448,36.121635
+639,K Spa,4083 Spring Mountain Rd,Las Vegas,Nv,89102,4083 Spring Mountain Rd Las Vegas NV 89102,"[-115.19415, 36.12633]",-115.19415,36.12633
+640,Skin Care Xperts Med Spa,2400 N Buffalo Dr Ste 105,Las Vegas,Nv,89128,2400 N Buffalo Dr Ste 105 Las Vegas Nv 89128,"[-115.259975, 36.20406]",-115.259975,36.20406
+641,DR. KAREN ARCOTTA,6830 S Rainbow Blvd,Las Vegas,Nv,89128,6830 S Rainbow Blvd Las Vegas NV 89118,"[-115.24233, 36.06406]",-115.24233,36.06406
+642,Aestheque at Canyon Falls,7331 W Lake Mead Blvd,Las Vegas,Nv,89128,7331 W Lake Mead Blvd Las Vegas NV 89128,"[-115.252672, 36.194755]",-115.252672,36.194755
+643,perfect image aesthetic center,5568 S Fort Apache Rd,Las Vegas,Nv,89148,5568 S Fort Apache Rd Las Vegas NV 89148,"[-115.29511, 36.087805]",-115.29511,36.087805
+644,Luna Aesthetics,8130 W Warm Springs Rd Suite 131,Las Vegas,Nv,89107,8130 W Warm Springs Rd Suite 131 Las Vegas NV 89107,"[-115.26842, 36.056395]",-115.26842,36.056395
+645,"Dr. John M. Clair Sr, DO",2250 E Flamingo Rd,Las Vegas,Nv,89119,2250 E Flamingo Rd Las Vegas NV 89119,"[-115.12148, 36.11571]",-115.12148,36.11571
+646,The Westin Las Vegas Hotel & Spa,160 E Flamingo Rd,Las Vegas,Nv,89109,160 E Flamingo Rd Las Vegas NV 89109,"[-115.165575, 36.11525]",-115.165575,36.11525
+647,JW Marriott Las Vegas Resort & Spa,221 N Rampart Blvd,Las Vegas,Nv,89109,221 N Rampart Blvd Las Vegas NV 89145,"[-115.2914, 36.17588]",-115.2914,36.17588
+648,The Wax Genie,515 Rose St,Las Vegas,Nv,89106,515 Rose St Las Vegas NV 89106,"[-115.1673, 36.16548]",-115.1673,36.16548
+649,MVP Therapeutics,Camelback Road Scottsdale,Las Vegas,Nv,89123,Camelback Road Scottsdale Las Vegas NV 89123,"[-115.15335, 36.027115]",-115.15335,36.027115
+650,My Tight Face,2685 S Rainbow Blvd,Las Vegas,Nv,89146,2685 S Rainbow Blvd Las Vegas NV 89146,"[-115.2436, 36.141005]",-115.2436,36.141005
+651,Attitude Medi Spa,9480 S Eastern Ave,Las Vegas,Nv,89123,9480 S Eastern Ave Las Vegas NV 89123,"[-115.11858, 36.01721]",-115.11858,36.01721
+652,SILVER LININGS WELLNESS,1900 E Desert Inn Rd,Las Vegas,Nv,89169,1900 E Desert Inn Rd Las Vegas NV 89169,"[-115.1256, 36.13021]",-115.1256,36.13021
+653,Luxury Laser Center,7131 W Craig Rd #107,Las Vegas,Nv,89129,7131 W Craig Rd #107 Las Vegas NV 89129,"[-115.2505, 36.24033]",-115.2505,36.24033
+654,Seven Hills Medical Spa,880 Seven Hills Dr,Henderson,Nv,89052,880 Seven Hills Dr Henderson NV 89052,"[-115.121543, 35.995675]",-115.121543,35.995675
+655,Radiant Skin,8565 S Eastern Ave ste 150,Las Vegas,Nv,89123,8565 S Eastern Ave ste 150 Las Vegas NV 89123,"[-115.11986, 36.03413]",-115.11986,36.03413
+656,Shine Nails,4021 W Sahara Ave,Las Vegas,Nv,89102,4021 W Sahara Ave Las Vegas NV 89102,"[-115.19442, 36.14425]",-115.19442,36.14425
+657,Parkway Clinic,2110 E Flamingo Rd,Las Vegas,Nv,89119,2110 E Flamingo Rd Las Vegas NV 89119,"[-115.12317, 36.115655]",-115.12317,36.115655
+658,Saturnal Kiss Therapeutics,6877 west charleston boulevard bldg# 6877,Las Vegas,Nv,89117,6877 west charleston boulevard bldg# 6877 Las Vegas NV 89117,"[-115.24466, 36.15896]",-115.24466,36.15896
+659,Vivoplus Spa,2619 W Charleston Blvd suite A,Las Vegas,Nv,89102,2619 W Charleston Blvd suite A Las Vegas NV 89102,"[-115.17701, 36.15876]",-115.17701,36.15876
+660,Summerlin Dermal Solutions,851 S Rampart Blvd,Las Vegas,Nv,89102,851 S Rampart Blvd Las Vegas NV 89145,"[-115.29224, 36.16333]",-115.29224,36.16333
+661,Scan on Demand,2747 Paradise Rd,Las Vegas,Nv,89109,2747 Paradise Rd Las Vegas NV 89109,"[-115.15689, 36.13881]",-115.15689,36.13881
+662,"Core-to-Floor, LLC",7455 W Washington Ave #422,Las Vegas,Nv,89128,7455 W Washington Ave #422 Las Vegas NV 89128,"[-115.25562, 36.17917]",-115.25562,36.17917
+663,Dees Timeless Beauty,6625 W Sahara Ave Suite 5,Las Vegas,Nv,89146,6625 W Sahara Ave Suite 5 Las Vegas NV 89146,"[-115.23727, 36.1431]",-115.23727,36.1431
+664,All Your Skin & Body Care by Delma,4850 West Flamingo Rd,Las Vegas,Nv,89103,4850 West Flamingo Rd Las Vegas NV 89103,"[-115.20679, 36.11655]",-115.20679,36.11655
+665,Eyebrow threading by Nari,5051 Stewart Ave,Las Vegas,Nv,89110,5051 Stewart Ave Las Vegas NV 89110,"[-115.06354, 36.16602]",-115.06354,36.16602
+666,Transformations Medical Spa,2626 S Rainbow Blvd,Las Vegas,Nv,89146,2626 S Rainbow Blvd Las Vegas NV 89146,"[-115.24226, 36.14156]",-115.24226,36.14156
+667,Windy Beauty Spa,4850 West Flamingo Rd,Las Vegas,Nv,89103,4850 West Flamingo Rd Las Vegas NV 89103,"[-115.20679, 36.11655]",-115.20679,36.11655
+668,Rockstar Rescue,1321 S Rainbow Blvd,Las Vegas,Nv,89146,1321 S Rainbow Blvd Las Vegas NV 89146,"[-115.2445, 36.15651]",-115.2445,36.15651
+669,The Body Sculpt Xpress,6370 W Flamingo Rd,Spring Valley,Nv,89103,6370 W Flamingo Rd Spring Valley NV 89103,"[-115.23223, 36.11502]",-115.23223,36.11502
+670,Instyle Nails,7175 W Lake Mead Blvd,Las Vegas,Nv,89128,7175 W Lake Mead Blvd Las Vegas NV 89128,"[-115.24813, 36.19553]",-115.24813,36.19553
+671,MedAesthetics,5495 South Rainbow Blvd,Las Vegas,Nv,89128,5495 South Rainbow Blvd Las Vegas NV 89118,"[-115.24354, 36.08903]",-115.24354,36.08903
+673,SLS Med Spa Beauty Clinic & Boutique,2610 S Jones Blvd,Las Vegas,Nv,89146,2610 S Jones Blvd Las Vegas NV 89146,"[-115.22463, 36.14201]",-115.22463,36.14201
+674,Micro Fibro Blast,3401 W Charleston Blvd,Las Vegas,Nv,89102,3401 W Charleston Blvd Las Vegas NV 89102,"[-115.18743, 36.158665]",-115.18743,36.158665
+676,Lashbarcosmetic,400 S 4th St,Las Vegas,Nv,89101,400 S 4th St Las Vegas NV 89101,"[-115.14457, 36.16602]",-115.14457,36.16602
+678,Antiaging Med Spa & Wellness Center,2931 N Tenaya Way,Las Vegas,Nv,89128,2931 N Tenaya Way Las Vegas NV 89128,"[-115.251, 36.21462]",-115.251,36.21462
+679,A Foot Spa,5255 S Decatur Blvd,Las Vegas,Nv,89128,5255 S Decatur Blvd Las Vegas NV 89118,"[-115.20859, 36.094575]",-115.20859,36.094575
+680,Uptown MedSpa,6539 Las Vegas Blvd S,Las Vegas,Nv,89119,6539 Las Vegas Blvd S Las Vegas NV 89119,"[-115.17249, 36.07006]",-115.17249,36.07006
+681,Nima Las Vegas,3580 S Maryland Pkwy,Las Vegas,Nv,89169,3580 S Maryland Pkwy Las Vegas NV 89169,"[-115.13709, 36.1252]",-115.13709,36.1252
+682,O2 Bar & Spa,2450 Chandler Ave,Las Vegas,Nv,89120,2450 Chandler Ave Las Vegas NV 89120,"[-115.117545, 36.074885]",-115.117545,36.074885
+683,Jouvence Skin Care,2380 N Buffalo Dr Ste 150,Las Vegas,Nv,89128,2380 N Buffalo Dr Ste 150 Las Vegas Nv 89128,"[-115.259955, 36.20302]",-115.259955,36.20302
+684,Adagio Med Spa,8285 W Arby Ave Ste 275,Las Vegas,Nv,89113,8285 W Arby Ave Ste 275 Las Vegas NV 89113,"[-115.27205, 36.05838]",-115.27205,36.05838
+685,Aloe Vera Skin Care LLC,5785 W Rochelle Ave,Las Vegas,Nv,89103,5785 W Rochelle Ave Las Vegas NV 89103,"[-115.22038, 36.10995]",-115.22038,36.10995
+686,China Spa,8164 Las Vegas Blvd S,Las Vegas,Nv,89123,8164 Las Vegas Blvd S Las Vegas NV 89123,"[-115.17225, 36.04119]",-115.17225,36.04119
+687,Prevage Medispa,2555 Montessouri St,Las Vegas,Nv,89117,2555 Montessouri St Las Vegas NV 89117,"[-115.24801, 36.14309]",-115.24801,36.14309
+688,Unveil Skincare & Aesthetics,4270 Blue Diamond Rd Ste 101,Las Vegas,Nv,89139,4270 Blue Diamond Rd Ste 101 Las Vegas NV 89139,"[-115.19774, 36.03721]",-115.19774,36.03721
+689,Aqua Desert Spa & Wellness,2595 S Cimarron Rd,Las Vegas,Nv,89117,2595 S Cimarron Rd Las Vegas NV 89117,"[-115.270595, 36.14236]",-115.270595,36.14236
+690,Ageless Forever Medical Spa,7180 Cascade Valley Ct,Las Vegas,Nv,89128,7180 Cascade Valley Ct Las Vegas Nv 89128,"[-115.24886, 36.21195]",-115.24886,36.21195
+691,Bawdie Factory,812 E Sahara Ave,Las Vegas,Nv,89104,812 E Sahara Ave Las Vegas NV 89104,"[-115.14375, 36.14498]",-115.14375,36.14498
+692,Beautiful Seceret,1900 E Desert Inn Rd,Las Vegas,Nv,89169,1900 E Desert Inn Rd Las Vegas NV 89169,"[-115.1256, 36.13021]",-115.1256,36.13021
+693,Discrete Meds Spa,8987 W Flamingo Rd Ste 105,Las Vegas,Nv,89147,8987 W Flamingo Rd Ste 105 Las Vegas NV 89147,"[-115.287178, 36.114005]",-115.287178,36.114005
+694,Acne Clinic Las Vegas by Justina,6787 W Tropicana Ave Ste 120,Las Vegas,Nv,89103,6787 W Tropicana Ave Ste 120 Las Vegas Nv 89103,"[-115.24005, 36.09973]",-115.24005,36.09973
+695,Attitude Med Spa,8660 W Spring Mountain Rd Ste 101,Las Vegas,Nv,89117,8660 W Spring Mountain Rd Ste 101 Las Vegas Nv 89117,"[-115.28038, 36.12658]",-115.28038,36.12658
+696,Bella Cara Spa,7975 W Sahara Ave Ste 103,Las Vegas,Nv,89117,7975 W Sahara Ave Ste 103 Las Vegas NV 89117,"[-115.26448, 36.14367]",-115.26448,36.14367
+697,Elante SPA,6140 W Tropicana Ave Ste C2,Las Vegas,Nv,89103,6140 W Tropicana Ave Ste C2 Las Vegas NV 89103,"[-115.22674, 36.09995]",-115.22674,36.09995
