@@ -11,10 +11,9 @@ with open('/etc/secrets/mapbox_token', 'r') as f:
 
 # Read data and create scatter mapbox chart
 coordinates_df = pd.read_csv('spa_location_coordinates.csv')
-zip_code_df = pd.read_csv("zip_code_df.csv")[['zipcode', 'population', 'population_density', 'spas_per_cap', 'spas_per_zip']]
+zip_code_df = pd.read_csv("zip_code_df.csv")[['zipcode', 'population', 'population_density', 'spas_per_cap', 'spas_per_zip', 'median_income']]
 zip_code_df_2 = zip_code_df.copy(deep=True)
-zip_code_df_2.columns = ['Zip Code', 'Population', 'Population Density (People / Sq Mi)', 'Spas per Capita', 'Spas per Zip Code']
-zip_code_df['zipcode'] = zip_code_df['zipcode'].astype('str')
+zip_code_df_2.columns = ['Zip Code', 'Population', 'Population Density (People / Sq Mi)', 'Spas per Capita', 'Spas per Zip Code', 'Median Household Income']
 zip_table = zip_code_df_2.to_dict('records')
 zip_table_columns = [{'name': col, 'id': col} for col in zip_code_df_2.columns]
 
