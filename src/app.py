@@ -138,7 +138,7 @@ app.layout = dbc.Container([
         dbc.Card([
             dbc.CardHeader([
                 html.H2('Zip Code Comparison of People and Spa Concentration', className='card-title chart-title'),
-                html.P('This table lists details by zip code pertaining to demographics and spa availability across Las Vegas, NV.', className='card-text chart-subtitle')
+                html.P('This table lists details by zip code pertaining to demographics and spa availability across Las Vegas, NV.', className='card-text chart-subtitle'),
                 html.P('The data in this table can be downloaded using the button below.', className='card-text chart-subtitle')
             ]),
             dbc.CardBody([
