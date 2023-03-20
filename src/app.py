@@ -14,6 +14,7 @@ coordinates_df = pd.read_csv('spa_location_coordinates.csv')
 zip_code_df = pd.read_csv("zip_code_df.csv")[['zipcode', 'population', 'population_density', 'spas_per_cap', 'spas_per_zip', 'median_income']]
 zip_code_df_2 = zip_code_df.copy(deep=True)
 zip_code_df_2.columns = ['Zip Code', 'Population', 'Population Density (People / Sq Mi)', 'Spas per Capita', 'Spas per Zip Code', 'Median Household Income']
+zip_code_df['zipcode'] = zip_code_df['zipcode'].astype('str')
 zip_table = zip_code_df_2.to_dict('records')
 zip_table_columns = [{'name': col, 'id': col} for col in zip_code_df_2.columns]
 
@@ -58,13 +59,17 @@ style_data_conditional = [
         'backgroundColor': 'rgba(17, 17, 17, .25)'}]
 style_cell = {
     'fontFamily': 'sans-serif',
-    'color': 'white'
+    'color': 'rgba(255, 255, 255, 1),',
 }
 style_header = {
     'backgroundColor': 'rgb(60, 60, 60)',
     'color': 'white',
     'fontWeight': 'bold'
 }
+style_table={
+    'border': 'none'
+}
+
 
 fig6 = dash_table.DataTable(
                     id='zip-code-table',
@@ -75,8 +80,17 @@ fig6 = dash_table.DataTable(
                     page_size=20,
                     style_data_conditional=style_data_conditional,
                     style_cell=style_cell,
-                    style_header=style_header
+                    style_header=style_header,
+                    style_table=style_table,
+                    style_as_list_view=True
                 )
+
+fig7 = px.scatter(zip_code_df, x='population', y='population_density', size='spas_per_cap', color='median_income', color_continuous_scale="ice",
+                  labels={"zipcode": "Zip Code", "spas_per_cap": "Spas per Capita",
+                          "population_density": "Population Density", "population": "Population", "median_income": "Median Household Income"},
+                  hover_data=['zipcode'], size_max=50, template="plotly_dark")
+
+
 
 # Define the app
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.DARKLY],
@@ -85,11 +99,14 @@ app = dash.Dash(__name__, external_stylesheets=[dbc.themes.DARKLY],
                 )
 server = app.server
 
+nys_logo = html.Img(src='https://images.squarespace-cdn.com/content/v1/616f82542bdf8b25c50c93f5/4e1be416-4cfa-4160-96e7-127d9c46e329/NY+Strategy+Logo+RW.png?format=1500w', style={'max-width': '300px'})
+
 # Define the layout
 app.layout = dbc.Container([
     dbc.Row([
-        dbc.Col(html.Img(src='nyslogo.png'))
-    ], className='./img-fluid'),
+        dbc.Col(html.A(nys_logo, href='https://nystrategy.com'),
+        style={'padding': '20px'})
+    ]),
 
     dbc.Row([
         dbc.Col(html.H1('Las Vegas Demographic and Spa Location Report', className='page-title'), width=12)
@@ -135,7 +152,23 @@ app.layout = dbc.Container([
         ], width=12),
     ]),
 
-    # Third row
+    # Scatter Plot
+    dbc.Row([
+        dbc.Col([
+            dbc.Card([
+                dbc.CardHeader([
+                    html.H2('Spa Concentrations per Zip Code by Population Size and Density', className='card-title chart-title'),
+                    html.P('This scatterplot can help to identify zip codes that are underserved markets for spa treatment.'),
+                    html.P('Look for bright colored (high income) small circles, reflecting few spas per capita, in regions that have high populations and population densities (up and right sides of the graph).'),
+                ]),
+                dbc.CardBody([
+                    dcc.Graph(figure=fig7, className='card-img-top chart-img'),
+                ])
+            ], className='chart-container mb-4')
+        ], width=12),
+    ]),
+
+    # Fourth row
     dbc.Row([
     dbc.Col([
         dbc.Card([
