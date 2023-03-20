@@ -85,7 +85,7 @@ server = app.server
 # Define the layout
 app.layout = dbc.Container([
     dbc.Row([
-        dbc.Col(html.H1('Las Vegas Demographic and Spa Location Assessment', className='page-title'), width=12)
+        dbc.Col(html.H1('Las Vegas Demographic and Spa Location Report', className='page-title'), width=12)
     ], className='header mb-4'),
 
     # First map and bar chart
