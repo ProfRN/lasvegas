@@ -6,7 +6,8 @@ import pandas as pd
 import plotly.express as px
 
 # Set token
-token = '/etc/secrets/mapbox_token'
+with open('/etc/secrets/mapbox_token', 'r') as f:
+    token = f.read().strip()
 
 # Read data and create scatter mapbox chart
 coordinates_df = pd.read_csv('spa_location_coordinates.csv')
@@ -172,5 +173,4 @@ def func(n_clicks):
 
 
 if __name__ == '__main__':
-    print(dash.Dash.dependencies)
     app.run_server(debug=True)
