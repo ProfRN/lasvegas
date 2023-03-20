@@ -164,7 +164,7 @@ app.layout = dbc.Container([
             ], className='text-center')
         ], width=12)
     ], className='footer mt-4')
-])
+], fluid=True)
 
 
 @app.callback(
