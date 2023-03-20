@@ -81,13 +81,17 @@ fig6 = dash_table.DataTable(
 
 # Define the app
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.DARKLY],
-    meta_tags=[
-        {"name": "viewport", "content": "width=device-width, initial-scale=1.0"}
-])
+    #meta_tags=[
+    #    {"name": "viewport", "content": "width=device-width, initial-scale=1.0"}]
+                )
 server = app.server
 
 # Define the layout
 app.layout = dbc.Container([
+    dbc.Row([
+        dbc.Col(html.Img(src='nyslogo.png'))
+    ], className='./img-fluid'),
+
     dbc.Row([
         dbc.Col(html.H1('Las Vegas Demographic and Spa Location Report', className='page-title'), width=12)
     ], className='header mb-4'),
@@ -164,7 +168,7 @@ app.layout = dbc.Container([
             ], className='text-center')
         ], width=12)
     ], className='footer mt-4')
-], fluid=True)
+])
 
 
 @app.callback(
